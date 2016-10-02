@@ -46,6 +46,8 @@ kramdown:
 
 # Navigation
 nav:
+  - name:           "About"
+    url:            "/"
   - name:           "CV"
     url:            "/cv"
   - name:           "Github"
