@@ -24,8 +24,7 @@ body {
 .content-container {
   max-width: 38rem;
   padding: 2rem 1.5rem;
-  // margin-left:  auto;
-  margin-left:  0.25rem;
+  margin-left:  auto;
   margin-right: auto;
 
   @media (min-width: 38rem){
@@ -38,7 +37,7 @@ body {
   Header
   -------------- */
 .header {
-  padding: 2%;
+  padding: 0%;
 
   &-title {
     font-weight: 300;
