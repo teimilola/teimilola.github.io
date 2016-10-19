@@ -49,7 +49,7 @@ nav:
   - name:           "About"
     url:            "/"
   - name:           "CV"
-    url:            "/cv"
+    url:            "/maria_antoniak.pdf"
   - name:           "Github"
     url:            "https://github.com/maria-antoniak"
 
