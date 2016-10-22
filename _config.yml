@@ -46,12 +46,12 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/"
-  - name:           "CV"
-    url:            "/maria_antoniak.pdf"
-  - name:           "Github"
-    url:            "https://github.com/maria-antoniak"
+  # - name:           "About"
+  #   url:            "/"
+  # - name:           "CV"
+  #   url:            "/maria_antoniak.pdf"
+  # - name:           "Github"
+  #   url:            "https://github.com/maria-antoniak"
 
 
 
