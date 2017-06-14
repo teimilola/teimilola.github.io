@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Hello!
 
 <img class="profile-picture" src="me.jpg">
 
