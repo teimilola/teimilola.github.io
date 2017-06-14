@@ -1,0 +1,8 @@
+- name: "Contact"
+  link: "contact"
+
+- name: "Resume"
+  link: "maria_antoniak.pdf"
+
+- name: "About"
+  link: "/"

@@ -1,83 +1,11 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
+title: Maria Antoniak
+url: "https://maria-antoniak.github.io/"
+baseurl: "/"
 
-# Basic
-name:               "Maria Antoniak"
+markdown: kramdown
 
+tracking_id: #
 
-
-author:
-  name:             "Maria Antoniak"
-  # facebook:         your-id
-  twitter:          m_antoniak
-  github:           maria-antoniak
-  linkedin:         mariaantoniak
-  # medium:           your-id
-  # tumblr:           your-id
-  # email:            your-id@your-email.com
-
-# Google-analytics
-google-analytics:
-  id:               ""
-
-# Disqus
-disqus:
-  id:               "your-id"
-
-# URL
-url:                "https://maria-antoniak.github.io"
-#url:               "localhost:4000"
-baseurl:            ""
-
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           America/Los_Angeles
-permalink:          /:year-:month-:day/:title/
-
-# Pagination
-paginate:           5
-paginate_path:      /page:num/
-
-# Markdown
-markdown:           kramdown
-kramdown:
-  imput:            GFM
-
-# Navigation
-nav:
-  # - name:           "About"
-  #   url:            "/"
-  # - name:           "CV"
-  #   url:            "/maria_antoniak.pdf"
-  # - name:           "Github"
-  #   url:            "https://github.com/maria-antoniak"
-
-
-
-# Sass
 sass:
-  sass_dir:         _sass
-  style:            :compressed
-
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
-
-# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-gems:
-  - jekyll-seo-tag
-  - jekyll-paginate
-
-exclude:            [vendor]
+    style: compressed
+    sass_dir: _sass
