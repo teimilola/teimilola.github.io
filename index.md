@@ -11,7 +11,7 @@ I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell
 I have a master's degree in computational linguistics from the University of Washington, where I was advised by [Fei Xia](http://faculty.washington.edu/fxia/), and I've previously worked at [Pacific Northwest National Laboratory](https://www.pnl.gov/) (PNNL) and [Maana](https://www.maana.io/), a data analytics startup.
 
 
-## Research Interest
+## Research Interests
 
 My research is in natural language processing and machine learning. I'm particularly interested in unsupervised and semi-supervised techniques, such as word embeddings and topic modeling. I study how these techniques can be used to explore new datasets (ranging from healthcare to literature to social media) and solve problems of semantic similarity (e.g. synonym and paraphrase detection).
 
