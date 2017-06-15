@@ -26,5 +26,5 @@ is_contact: true
 <!-- ## Social
 
 1. [LinkedIn](https://www.linkedin.com/in/mariaantoniak)
-2. [Twitter](https://twitter.com/m_antoniak)
-<!-- 3. [Google+](#) --> -->
+2. [Twitter](https://twitter.com/m_antoniak) -->
+<!-- 3. [Google+](#) -->
