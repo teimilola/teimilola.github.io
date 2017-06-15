@@ -32,6 +32,14 @@ January 2017: Attending the Amazon Graduate Research Symposium in Seattle, WA
 
 Spring 2017: TA for [CS 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
 
+<br>
+
+## Contact
+
+1. [maa343@cornell.edu](mailto:maa343@cornell.edu)
+2. [LinkedIn](https://www.linkedin.com/in/mariaantoniak)
+3. [Twitter](https://twitter.com/m_antoniak)
+
 
 <!-- ## Publications
 
