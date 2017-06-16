@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-EDUCATION
+## EDUCATION
 
 Cornell University (Ithaca, NY)
 PhD in Information Science
@@ -30,7 +30,7 @@ Aug. 2007 - May 2011
 
 ---
 
-EXPERIENCE
+## EXPERIENCE
 
 MAANA (Seattle, WA)
 Data Scientist
@@ -87,45 +87,50 @@ Sept. 2008 - May 2011
 
 ---
 
-SKILLS
+## SKILLS
 
 Computer Languages
+
 Python (primary), Java (secondary), C++ (some experience), Scala (some experience)
 
 Python Stack
+
 spaCy, Gensim, scikit-learn, pandas, SciPy, NumPy, PySpark
 
 Other Toolkits
+
 Mallet, Stanford CoreNLP, NLTK, openNLP, Solr/Lucene
 
 Human Languages
+
 English (native), French (intermediate), Ukrainian (beginning), Italian (beginning), Russian (beginning
 
 ---
 
-PUBLICATIONS
+## PUBLICATIONS
+
 * Antoniak, Maria, Jeff Dagliesh, and Justin Lo. ”Natural Language Processing Techniques on Oil and Gas Drilling Data.” SPE Intelligent Energy Conference and Exhibition. 2016.
 * Antoniak, Maria, Eric Bell, and Fei Xia. ”Leveraging Paraphrase Labels to Extract Synonyms from Twitter.” The Twenty-Eighth International Florida Artificial Intelligence Research Society Conference. 2015.
 
 ---
 
-POSTERS
+## POSTERS
 
 * Antoniak, Maria, Eric Bell, and Fei Xia. ”Extracting Topically Related Synonyms from Twitter.” In Workshop for Women in Machine Learning (WiML), collocated with NIPS 2015.
 
 ---
 
-HONORS & AWARDS
+## HONORS & AWARDS
 
-2016 Information Science Fellowship, Cornell University
-2013 1st Place, PNNL Biosurveillance Mobile App Development Competition
-2010 Editorial Board Member, Notre Dame Journal of Undergraduate Research
-2007 Glynn Family Honors Program, University of Notre Dame
-2007 National Merit Scholar, National Merit Scholarship Program
+* 2016 Information Science Fellowship, Cornell University
+* 2013 1st Place, PNNL Biosurveillance Mobile App Development Competition
+* 2010 Editorial Board Member, Notre Dame Journal of Undergraduate Research
+* 2007 Glynn Family Honors Program, University of Notre Dame
+* 2007 National Merit Scholar, National Merit Scholarship Program
 
 ---
 
-OTHER ACADEMIC EXPERIENCE
+## OTHER ACADEMIC EXPERIENCE
 
 Lisbon Machine Learning Summer School (LxMLS) (Lisbon, Portugal)
 Instituto Superior Tecnico (Lisboa)
