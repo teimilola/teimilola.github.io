@@ -138,8 +138,8 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## PUBLICATIONS
 
-* Antoniak, Maria, Jeff Dagliesh, and Justin Lo. ”Natural Language Processing Techniques on Oil and Gas Drilling Data.” SPE Intelligent Energy Conference and Exhibition. 2016.
-* Antoniak, Maria, Eric Bell, and Fei Xia. ”Leveraging Paraphrase Labels to Extract Synonyms from Twitter.” The Twenty-Eighth International Florida Artificial Intelligence Research Society Conference. 2015.
+* Antoniak, Maria, Jeff Dagliesh, and Justin Lo. ”Natural Language Processing Techniques on Oil and Gas Drilling Data.” *SPE Intelligent Energy Conference and Exhibition*. 2016.
+* Antoniak, Maria, Eric Bell, and Fei Xia. ”Leveraging Paraphrase Labels to Extract Synonyms from Twitter.” *The Twenty-Eighth International Florida Artificial Intelligence Research Society Conference*. 2015.
 
 <br>
 
@@ -147,7 +147,7 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## POSTERS
 
-* Antoniak, Maria, Eric Bell, and Fei Xia. ”Extracting Topically Related Synonyms from Twitter.” In Workshop for Women in Machine Learning (WiML), collocated with NIPS 2015.
+* Antoniak, Maria, Eric Bell, and Fei Xia. ”Extracting Topically Related Synonyms from Twitter.” In *Workshop for Women in Machine Learning (WiML)*, collocated with *NIPS 2015*.
 
 <br>
 
