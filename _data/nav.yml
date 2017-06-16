@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Reading"
+  linke: "reading"
+
 - name: "Resume"
   link: "resume"
 
