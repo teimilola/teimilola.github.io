@@ -14,6 +14,8 @@ Aug. 2016 - PRESENT
 * Advisor: David Mimno
 * GPA: 4.0
 
+<br>
+
 ### University of Washington  
 MS in Computational Linguistics  
 June 2013 - Dec. 2014  
@@ -21,6 +23,7 @@ June 2013 - Dec. 2014
 * Thesis: Extracting Topically Related Synonyms from Twitter
 * GPA: 3.95
 
+<br>
 
 ### University of Notre Dame  
 BA in Program of Liberal Studies  
@@ -29,16 +32,16 @@ Aug. 2007 - May 2011
 * Glynn Family Honors Program
 * GPA: 3.59
 
+<br>
+
 ---
 
 ## EXPERIENCE
 
-MAANA (Seattle, WA)
-
-Data Scientist
-
-Dec. 2014 - May 2016
-
+### MAANA  
+Data Scientist  
+Seattle, WA  
+Dec. 2014 - May 2016  
 * Led the data science design and implementation of successful proof-of-concept projects for Fortune 100 companies (e.g. Shell, GE, Chevron), using various NLP and ML techniques.
 * Created a custom named entity recognition and normalization system for messy, technical text using bootstrapping and word embeddings.
 * Constructed a query expansion and completion search system for the core product.
@@ -46,94 +49,86 @@ Dec. 2014 - May 2016
 
 <br>
 
-Pacific Northwest National Laboratory (Seattle, WA)
-
-National Security Intern
-
-Jul. - Dec. 2014
-
+### Pacific Northwest National Laboratory  
+National Security Intern  
+Seattle, WA  
+Jul. - Dec. 2014  
 * Researched automatic synonym extraction for Twitter to boost performance for paraphrase detection.
 * Implemented two baseline systems for paraphrase detection using SVM models trained using machine translation metrics, a reweighting scheme (TF-KLD), and non-negative matrix factorization (NMF).
 * Supported other NLP software development projects, including sentiment analysis, topic modeling, and data extraction.
 
 <br>
 
-Pacific Northwest National Laboratory (Richland, WA)
-
-Mobile App Developer Intern
-
-Jun. - Aug. 2013
-
+### Pacific Northwest National Laboratory  
+Mobile App Developer Intern  
+Richland, WA  
+Jun. - Aug. 2013  
 * Designed, created, and presented FoodFeed, a foodborne illness tracking application that won PNNL’s biosurveillance mobile app competition.
 * Developed the front-end of the Android application for Nexus 4 and 7.
 * Scraped and indexed public health data from FDA and CDC using Solr/Lucene.
+
+<br>
 
 ---
 
 ## SERVICE & TEACHING EXPERIENCE
 
-Ukrainian Catholic University (Lviv, Ukraine)
-
-English Teacher
-
-Aug. 2011 - Jul. 2012
-
+### Ukrainian Catholic University   
+English Teacher  
+Lviv, Ukraine  
+Aug. 2011 - Jul. 2012  
 * Taught English to university students and seminarians.
 * Led the university’s English club and organized activities for 100+ students.
 
 <br>
 
-Humanties Spring (Assisi, Italy)
-
-Teaching Assistant
-
-Summers 2010 & 2011
-
+### Humanties Spring  
+Teaching Assistant  
+Assisi, Italy  
+Summers 2010 & 2011  
 * Taught a poetry and creative writing course for high school students.
 * Assisted courses in Latin, Greek, art history, opera, and classic literature.
 * Led student excursions to historical sites in Umbria and Tuscany.
 
 <br>
 
-First Year Writing Tutorial, University of Notre Dame (Notre Dame, IN)
-
-Teaching Assistant
-
-Sept. 2010 - May 2011
-
+### First Year Writing Tutorial, University of Notre Dame  
+Teaching Assistant  
+Notre Dame, IN  
+Sept. 2010 - May 2011  
 * Taught university-level writing skills to a core group of struggling freshmen.
 * Conducted both individual sessions (6-8 per week) and either assisted or led weekly group sessions.
 * Worked one-on-one with high profile athletes (ND Football) and ESL students.
 
 <br>
 
-Writing Center, University of Notre Dame (Notre Dame, IN)
-
-Writing Tutor
-
-Sept. 2008 - May 2011
-
+### Writing Center, University of Notre Dame   
+Writing Tutor  
+Notre Dame, IN  
+Sept. 2008 - May 2011  
 * Directed 70+ discussion-based consultations per semester with individual students.
 * Led specialized workshops for grant applicants.
 * Completed one semester training course, with continued monthly training led by experts in various writing styles and disciplines (e.g. chemistry, philosophy, ESL).
+
+<br>
 
 ---
 
 ## SKILLS
 
-Computer Languages
+### Computer Languages
 
 Python (primary), Java (secondary), C++ (some experience), Scala (some experience)
 
-Python Stack
+### Python Stack
 
 spaCy, Gensim, scikit-learn, pandas, SciPy, NumPy, PySpark
 
-Other Toolkits
+### Other Toolkits
 
 Mallet, Stanford CoreNLP, NLTK, openNLP, Solr/Lucene
 
-Human Languages
+### Human Languages
 
 English (native), French (intermediate), Ukrainian (beginning), Italian (beginning), Russian (beginning
 
@@ -164,8 +159,7 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## OTHER ACADEMIC EXPERIENCE
 
-Lisbon Machine Learning Summer School (LxMLS) (Lisbon, Portugal)
-
-Instituto Superior Tecnico (Lisboa)
-
-Jul. 2016
+Lisbon Machine Learning Summer School (LxMLS)  
+Instituto Superior Tecnico (Lisboa)  
+Lisbon, Portugal  
+Jul. 2016  
