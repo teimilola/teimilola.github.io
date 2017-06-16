@@ -17,6 +17,8 @@ Aug. 2016 - PRESENT
 * Advisor: David Mimno
 * GPA: 4.0
 
+<br>
+
 University of Washington (Seattle, WA)
 
 MS in Computational Linguistics
@@ -26,6 +28,8 @@ June 2013 - Dec. 2014
 * Advisor: Fei Xia
 * Thesis: Extracting Topically Related Synonyms from Twitter
 * GPA: 3.95
+
+<br>
 
 University of Notre Dame (Notre Dame, IN)
 
@@ -52,6 +56,8 @@ Dec. 2014 - May 2016
 * Constructed a query expansion and completion search system for the core product.
 * Implemented the NLP sections of a Scala machine learning pipeline for the core product.
 
+<br>
+
 Pacific Northwest National Laboratory (Seattle, WA)
 
 National Security Intern
@@ -61,6 +67,8 @@ Jul. - Dec. 2014
 * Researched automatic synonym extraction for Twitter to boost performance for paraphrase detection.
 * Implemented two baseline systems for paraphrase detection using SVM models trained using machine translation metrics, a reweighting scheme (TF-KLD), and non-negative matrix factorization (NMF).
 * Supported other NLP software development projects, including sentiment analysis, topic modeling, and data extraction.
+
+<br>
 
 Pacific Northwest National Laboratory (Richland, WA)
 
@@ -85,6 +93,8 @@ Aug. 2011 - Jul. 2012
 * Taught English to university students and seminarians.
 * Led the university’s English club and organized activities for 100+ students.
 
+<br>
+
 Humanties Spring (Assisi, Italy)
 
 Teaching Assistant
@@ -95,6 +105,8 @@ Summers 2010 & 2011
 * Assisted courses in Latin, Greek, art history, opera, and classic literature.
 * Led student excursions to historical sites in Umbria and Tuscany.
 
+<br>
+
 First Year Writing Tutorial, University of Notre Dame (Notre Dame, IN)
 
 Teaching Assistant
@@ -104,6 +116,8 @@ Sept. 2010 - May 2011
 * Taught university-level writing skills to a core group of struggling freshmen.
 * Conducted both individual sessions (6-8 per week) and either assisted or led weekly group sessions.
 * Worked one-on-one with high profile athletes (ND Football) and ESL students.
+
+<br>
 
 Writing Center, University of Notre Dame (Notre Dame, IN)
 
