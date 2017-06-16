@@ -8,12 +8,9 @@ layout: default
 
 ## EDUCATION
 
-Cornell University (Ithaca, NY)
-
-PhD in Information Science
-
-Aug. 2016 - PRESENT
-
+Cornell University (Ithaca, NY)  
+PhD in Information Science  
+Aug. 2016 - PRESENT  
 * Advisor: David Mimno
 * GPA: 4.0
 
