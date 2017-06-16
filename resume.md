@@ -8,32 +8,23 @@ layout: default
 
 ## EDUCATION
 
-Cornell University (Ithaca, NY)  
+### Cornell University  
 PhD in Information Science  
 Aug. 2016 - PRESENT  
 * Advisor: David Mimno
 * GPA: 4.0
 
-<br>
-
-University of Washington (Seattle, WA)
-
-MS in Computational Linguistics
-
-June 2013 - Dec. 2014
-
+### University of Washington  
+MS in Computational Linguistics  
+June 2013 - Dec. 2014  
 * Advisor: Fei Xia
 * Thesis: Extracting Topically Related Synonyms from Twitter
 * GPA: 3.95
 
-<br>
 
-University of Notre Dame (Notre Dame, IN)
-
-BA in Program of Liberal Studies
-
-Aug. 2007 - May 2011
-
+### University of Notre Dame  
+BA in Program of Liberal Studies  
+Aug. 2007 - May 2011  
 * Advisor: Bernd Goehring
 * Glynn Family Honors Program
 * GPA: 3.59
