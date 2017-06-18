@@ -32,6 +32,7 @@ January 2017: Attending the Amazon Graduate Research Symposium in Seattle, WA
 
 Spring 2017: TA for [CS 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
 
+<br>
 
 <!-- ## Publications
 
