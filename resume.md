@@ -10,7 +10,7 @@ layout: default
 
 ### Cornell University  
 PhD in Information Science  
-Aug. 2016 - PRESENT  
+August 2016 - PRESENT  
 * Advisor: David Mimno
 * GPA: 4.0
 
@@ -18,7 +18,7 @@ Aug. 2016 - PRESENT
 
 ### University of Washington  
 MS in Computational Linguistics  
-June 2013 - Dec. 2014  
+June 2013 - December 2014  
 * Advisor: Fei Xia
 * Thesis: Extracting Topically Related Synonyms from Twitter
 * GPA: 3.95
@@ -27,7 +27,7 @@ June 2013 - Dec. 2014
 
 ### University of Notre Dame  
 BA in Program of Liberal Studies  
-Aug. 2007 - May 2011  
+August 2007 - May 2011  
 * Advisor: Bernd Goehring
 * Glynn Family Honors Program
 * GPA: 3.59
@@ -41,7 +41,7 @@ Aug. 2007 - May 2011
 ### MAANA  
 Data Scientist  
 Seattle, WA  
-Dec. 2014 - May 2016  
+December 2014 - May 2016  
 * Led the data science design and implementation of successful proof-of-concept projects for Fortune 100 companies (e.g. Shell, GE, Chevron), using various NLP and ML techniques.
 * Created a custom named entity recognition and normalization system for messy, technical text using bootstrapping and word embeddings.
 * Constructed a query expansion and completion search system for the core product.
@@ -52,7 +52,7 @@ Dec. 2014 - May 2016
 ### Pacific Northwest National Laboratory  
 National Security Intern  
 Seattle, WA  
-Jul. - Dec. 2014  
+July - December 2014  
 * Researched automatic synonym extraction for Twitter to boost performance for paraphrase detection.
 * Implemented two baseline systems for paraphrase detection using SVM models trained using machine translation metrics, a reweighting scheme (TF-KLD), and non-negative matrix factorization (NMF).
 * Supported other NLP software development projects, including sentiment analysis, topic modeling, and data extraction.
@@ -62,7 +62,7 @@ Jul. - Dec. 2014
 ### Pacific Northwest National Laboratory  
 Mobile App Developer Intern  
 Richland, WA  
-Jun. - Aug. 2013  
+June - August 2013  
 * Designed, created, and presented FoodFeed, a foodborne illness tracking application that won PNNL’s biosurveillance mobile app competition.
 * Developed the front-end of the Android application for Nexus 4 and 7.
 * Scraped and indexed public health data from FDA and CDC using Solr/Lucene.
@@ -76,7 +76,7 @@ Jun. - Aug. 2013
 ### Ukrainian Catholic University   
 English Teacher  
 Lviv, Ukraine  
-Aug. 2011 - Jul. 2012  
+August 2011 - July 2012  
 * Taught English to university students and seminarians.
 * Led the university’s English club and organized activities for 100+ students.
 
@@ -95,7 +95,7 @@ Summers 2010 & 2011
 ### First Year Writing Tutorial, University of Notre Dame  
 Teaching Assistant  
 Notre Dame, IN  
-Sept. 2010 - May 2011  
+September 2010 - May 2011  
 * Taught university-level writing skills to a core group of struggling freshmen.
 * Conducted both individual sessions (6-8 per week) and either assisted or led weekly group sessions.
 * Worked one-on-one with high profile athletes (ND Football) and ESL students.
@@ -105,7 +105,7 @@ Sept. 2010 - May 2011
 ### Writing Center, University of Notre Dame   
 Writing Tutor  
 Notre Dame, IN  
-Sept. 2008 - May 2011  
+September 2008 - May 2011  
 * Directed 70+ discussion-based consultations per semester with individual students.
 * Led specialized workshops for grant applicants.
 * Completed one semester training course, with continued monthly training led by experts in various writing styles and disciplines (e.g. chemistry, philosophy, ESL).
@@ -175,9 +175,9 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## OTHER ACADEMIC EXPERIENCE
 
-Lisbon Machine Learning Summer School (LxMLS)  
+### Lisbon Machine Learning Summer School (LxMLS)  
 Instituto Superior Tecnico (Lisboa)  
 Lisbon, Portugal  
-Jul. 2016  
+July 2016  
 
 <br>
