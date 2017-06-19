@@ -71,7 +71,7 @@ Jun. - Aug. 2013
 
 ---
 
-## SERVICE & TEACHING EXPERIENCE
+## TEACHING EXPERIENCE
 
 ### Ukrainian Catholic University   
 English Teacher  
@@ -109,6 +109,14 @@ Sept. 2008 - May 2011
 * Directed 70+ discussion-based consultations per semester with individual students.
 * Led specialized workshops for grant applicants.
 * Completed one semester training course, with continued monthly training led by experts in various writing styles and disciplines (e.g. chemistry, philosophy, ESL).
+
+<br>
+
+---
+
+## SERVICE
+
+* 2017-2018 Information Science Graduate Student Association (ISGSA) Vice President
 
 <br>
 
