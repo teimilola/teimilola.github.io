@@ -4,6 +4,7 @@ layout: default
 
 ## 2017
 
+*[The Pendragon Legend](https://www.amazon.com/dp/1908968400/ref=cm_sw_r_cp_dp_T1_NWctzbS85MMS8) by Antal Szerb
 * [Blood Meridian: Or the Evening Redness in the West](https://www.amazon.com/dp/0679728759/ref=cm_sw_r_cp_dp_T1_FlgrzbREKE7FG) by Cormac McCarthy  
 * [The Red and the Green](https://www.amazon.com/dp/0140027564/ref=cm_sw_r_cp_dp_T1_UkgrzbK27C4TS) by Iris Murdoch  
 * [The Bachelors](https://www.amazon.com/dp/B00LGUEOIC/ref=cm_sw_r_cp_dp_T1_hkgrzbGR2RYJA) by Adalbert Stifter  
