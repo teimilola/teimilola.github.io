@@ -12,7 +12,6 @@ layout: default
 PhD in Information Science  
 August 2016 - PRESENT  
 * Advisor: David Mimno
-* GPA: 4.0
 
 <br>
 
@@ -21,7 +20,6 @@ MS in Computational Linguistics
 June 2013 - December 2014  
 * Advisor: Fei Xia
 * Thesis: Extracting Topically Related Synonyms from Twitter
-* GPA: 3.95
 
 <br>
 
@@ -30,7 +28,6 @@ BA in Program of Liberal Studies
 August 2007 - May 2011  
 * Advisor: Bernd Goehring
 * Glynn Family Honors Program
-* GPA: 3.59
 
 <br>
 
