@@ -19,7 +19,7 @@ August 2016 - PRESENT
 MS in Computational Linguistics  
 June 2013 - December 2014  
 * Advisor: Fei Xia
-* Thesis: Extracting Topically Related Synonyms from Twitter
+* Thesis: *Extracting Topically Related Synonyms from Twitter*
 
 <br>
 
