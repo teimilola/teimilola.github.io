@@ -15,5 +15,6 @@ layout: default
 * [Count d'Orgel](https://www.amazon.com/dp/1901285030/ref=cm_sw_r_cp_dp_T1_sGgrzbCM8C2V6) by Raymond Radiguet
 * [Dying](https://www.amazon.com/dp/190128574X/ref=cm_sw_r_cp_dp_T1_BHgrzbVJBX9TF) by Arthur Schnitzler  
 * [The Summer Book](https://www.amazon.com/dp/159017268X/ref=cm_sw_r_cp_dp_T1_TjgrzbGYT5127) by Tove Jansson  
+* [The Shortest History of Europe](https://www.amazon.com/dp/1863955658/ref=cm_sw_r_cp_dp_T1_XGhtzb9WH5SN5) by John Hirst
 
 <br>
