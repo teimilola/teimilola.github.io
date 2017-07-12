@@ -5,6 +5,7 @@ baseurl: ""
 markdown: kramdown
 kramdown:
     highlighter: rouge
+    input: GFM
 
 tracking_id: #
 
