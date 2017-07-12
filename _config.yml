@@ -3,9 +3,7 @@ url: "https://maria-antoniak.github.io/"
 baseurl: ""
 
 markdown: kramdown
-kramdown:
-    highlighter: rouge
-    input: GFM
+highlighter: rouge
 
 tracking_id: #
 
