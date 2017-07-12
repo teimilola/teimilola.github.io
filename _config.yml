@@ -3,8 +3,10 @@ url: "https://maria-antoniak.github.io/"
 baseurl: ""
 
 markdown: kramdown
-highlighter: rouge
-
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
 tracking_id: #
 
 sass:
