@@ -24,7 +24,7 @@ June 2013 - December 2014
 <br>
 
 ### University of Notre Dame  
-BA in [Program of Liberal Studies](http://pls.nd.edu/)
+BA in [Program of Liberal Studies](http://pls.nd.edu/)  
 August 2007 - May 2011  
 * Advisor: Bernd Goehring
 * Glynn Family Honors Program
