@@ -9,14 +9,14 @@ layout: default
 ## EDUCATION
 
 ### Cornell University  
-PhD in Information Science  
+PhD in [Information Science](https://www.infosci.cornell.edu/)  
 August 2016 - PRESENT  
 * Advisor: David Mimno
 
 <br>
 
 ### University of Washington  
-MS in Computational Linguistics  
+MS in [Computational Linguistics](http://www.compling.uw.edu/)  
 June 2013 - December 2014  
 * Advisor: Fei Xia
 * Thesis: *Extracting Topically Related Synonyms from Twitter*
@@ -24,7 +24,7 @@ June 2013 - December 2014
 <br>
 
 ### University of Notre Dame  
-BA in Program of Liberal Studies  
+BA in [Program of Liberal Studies](http://pls.nd.edu/)
 August 2007 - May 2011  
 * Advisor: Bernd Goehring
 * Glynn Family Honors Program
