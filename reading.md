@@ -17,5 +17,7 @@ layout: default
 * [Blood Meridian: Or the Evening Redness in the West](https://www.amazon.com/dp/0679728759/ref=cm_sw_r_cp_dp_T1_FlgrzbREKE7FG) by Cormac McCarthy  
 * [The Pendragon Legend](https://www.amazon.com/dp/1908968400/ref=cm_sw_r_cp_dp_T1_NWctzbS85MMS8) by Antal Szerb
 * [Ada, or Ardor](https://www.amazon.com/dp/0679725229/ref=cm_sw_r_cp_ep_dp_q5-xzbATCHP81) by Vladimir Nabokov
+* [Buried in the Sky](https://www.amazon.com/dp/0393345416/ref=cm_sw_r_cp_dp_T2_ew9GzbETCDZKR) by Peter Zuckerman and Amanda Padoan  
+* [Murder in Retrospect](https://www.amazon.com/dp/0062073575/ref=cm_sw_r_cp_dp_T2_fv9Gzb8K12BCS) by Agatha Christie  
 
 <br>
