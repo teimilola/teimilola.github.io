@@ -79,7 +79,7 @@ August 2011 - July 2012
 
 <br>
 
-### Humanties Spring  
+### Humanities Spring  
 Teaching Assistant  
 Assisi, Italy  
 Summers 2010 & 2011  
@@ -161,7 +161,7 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 ## HONORS & AWARDS
 
 * 2016 Information Science Fellowship, Cornell University
-* 2013 1st Place, PNNL Biosurveillance Mobile App Development Competition
+* 2013 1st Place, PNNL Bio-surveillance Mobile App Development Competition
 * 2010 Editorial Board Member, Notre Dame Journal of Undergraduate Research
 * 2007 Glynn Family Honors Program, University of Notre Dame
 * 2007 National Merit Scholar, National Merit Scholarship Program
