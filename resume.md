@@ -11,14 +11,14 @@ layout: default
 ### Cornell University  
 PhD in [Information Science](https://www.infosci.cornell.edu/)  
 August 2016 - PRESENT  
-* Advisor: [David Mimno](https://mimno.infosci.cornell.edu/)
+* Advisor: David Mimno  
 
 <br>
 
 ### University of Washington  
 MS in [Computational Linguistics](http://www.compling.uw.edu/)  
 June 2013 - December 2014  
-* Advisor: [Fei Xia](https://faculty.washington.edu/fxia/)
+* Advisor: Fei Xia  
 * Thesis: *Extracting Topically Related Synonyms from Twitter*
 
 <br>
@@ -35,7 +35,7 @@ August 2007 - May 2011
 
 ## INDUSTRY EXPERIENCE
 
-### [MAANA](https://www.maana.io/)  
+### MAANA
 Data Scientist  
 Seattle, WA  
 December 2014 - May 2016  
@@ -46,7 +46,7 @@ December 2014 - May 2016
 
 <br>
 
-### [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
+### Pacific Northwest National Laboratory
 National Security Intern  
 Seattle, WA  
 July - December 2014  
@@ -56,7 +56,7 @@ July - December 2014
 
 <br>
 
-### [Pacific Northwest National Laboratory](https://www.pnnl.gov/) 
+### Pacific Northwest National Laboratory
 Mobile App Developer Intern  
 Richland, WA  
 June - August 2013  
@@ -172,9 +172,6 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## OTHER ACADEMIC EXPERIENCE
 
-### Lisbon Machine Learning Summer School (LxMLS)  
-Instituto Superior Tecnico (Lisboa)  
-Lisbon, Portugal  
-July 2016  
+Lisbon Machine Learning Summer School (LxMLS), July 2016   
 
 <br>
