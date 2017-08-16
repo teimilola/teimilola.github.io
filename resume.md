@@ -11,14 +11,14 @@ layout: default
 ### Cornell University  
 PhD in [Information Science](https://www.infosci.cornell.edu/)  
 August 2016 - PRESENT  
-* Advisor: David Mimno
+* Advisor: [David Mimno](https://mimno.infosci.cornell.edu/)
 
 <br>
 
 ### University of Washington  
 MS in [Computational Linguistics](http://www.compling.uw.edu/)  
 June 2013 - December 2014  
-* Advisor: Fei Xia
+* Advisor: [Fei Xia](https://faculty.washington.edu/fxia/)
 * Thesis: *Extracting Topically Related Synonyms from Twitter*
 
 <br>
@@ -27,15 +27,15 @@ June 2013 - December 2014
 BA in [Program of Liberal Studies](http://pls.nd.edu/)  
 August 2007 - May 2011  
 * Advisor: Bernd Goehring
-* Glynn Family Honors Program
+* [Glynn Family Honors Program](https://glynnhonors.nd.edu/)
 
 <br>
 
 ---
 
-## EXPERIENCE
+## INDUSTRY EXPERIENCE
 
-### MAANA  
+### [MAANA](https://www.maana.io/)  
 Data Scientist  
 Seattle, WA  
 December 2014 - May 2016  
@@ -46,7 +46,7 @@ December 2014 - May 2016
 
 <br>
 
-### Pacific Northwest National Laboratory  
+### [Pacific Northwest National Laboratory](https://www.pnnl.gov/)
 National Security Intern  
 Seattle, WA  
 July - December 2014  
@@ -56,7 +56,7 @@ July - December 2014
 
 <br>
 
-### Pacific Northwest National Laboratory  
+### [Pacific Northwest National Laboratory](https://www.pnnl.gov/) 
 Mobile App Developer Intern  
 Richland, WA  
 June - August 2013  
