@@ -19,6 +19,7 @@ layout: default
 * [Ada, or Ardor](https://www.amazon.com/dp/0679725229/ref=cm_sw_r_cp_ep_dp_q5-xzbATCHP81) by Vladimir Nabokov
 * [Buried in the Sky](https://www.amazon.com/dp/0393345416/ref=cm_sw_r_cp_dp_T2_ew9GzbETCDZKR) by Peter Zuckerman and Amanda Padoan  
 * [Murder in Retrospect](https://www.amazon.com/dp/0062073575/ref=cm_sw_r_cp_dp_T2_fv9Gzb8K12BCS) by Agatha Christie  
+* [The Italian Girl](https://www.amazon.com/dp/0140025596) by Iris Murdoch
 * [Within a Budding Grove](https://www.amazon.com/Search-Lost-Time-Vol-II/dp/0375752196/) by Marcel Proust
 
 <br>
