@@ -6,7 +6,7 @@ layout: default
 
 ## Hello!
 
-<!-- <img class="profile-picture" src="me.jpg"> -->
+<img class="profile-picture" src="me.jpg">
 
 I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell University working in natural language processing. My advisor is [David Mimno](https://mimno.infosci.cornell.edu/).
 
@@ -21,6 +21,8 @@ My research is in natural language processing and machine learning. I'm particul
 <br>
 
 ## News
+
+October 2017: Attending NovelTM in Montreal, Canada  
 
 May-August 2017: Interning at Rakuten in Seattle, WA
 
