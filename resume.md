@@ -4,13 +4,15 @@ layout: default
 
 [PDF](http://maria-antoniak.github.io/maria_antoniak.pdf)
 
+<br>
+
 ---
 
 ## EDUCATION
 
 ### Cornell University  
 PhD in [Information Science](https://www.infosci.cornell.edu/)  
-August 2016 - PRESENT  
+August 2016 - Present  
 * Advisor: David Mimno  
 
 <br>
@@ -174,4 +176,5 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 Lisbon Machine Learning Summer School (LxMLS), July 2016   
 
+<br>
 <br>
