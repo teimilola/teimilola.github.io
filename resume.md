@@ -37,10 +37,10 @@ August 2007 - May 2011
 
 ## INDUSTRY EXPERIENCE
 
-### Rakuten
-Software Engineering Intern
-Seattle, WA
-May-August 2017
+### Rakuten  
+Software Engineering Intern  
+Seattle, WA  
+May-August 2017  
 * Investigated implications of imbalance of gender labels for products in the Rakuten Catalog.
 * Developed training data and a classifier for product gender labels while restricting the classifier's use based on ethical considerations for each category of products.
 * Developed an anomaly detection system to discover mislabeled training data.}
