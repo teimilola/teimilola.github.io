@@ -24,5 +24,6 @@ layout: default
 * [Seven Gothic Tales](https://www.amazon.com/Seven-Gothic-Tales-Isak-Dinesen/dp/0679736417) by Isak Dinesen
 * [Towards Zero](https://www.amazon.com/Towards-Zero-Agatha-Christie/dp/0062073540) by Agatha Christie
 * [The Turn of the Screw](http://www.gutenberg.org/files/209/209-h/209-h.htm) by Henry James  
+* [The God of Small Things](https://www.amazon.com/God-Small-Things-Novel/dp/0812979656) by Arundhati Roy   
 
 <br>
