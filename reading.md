@@ -2,6 +2,12 @@
 layout: default
 ---
 
+## 2018
+
+* [First Love and other Tales](https://www.amazon.com/First-Other-Norton-Library-Paperback/dp/0393004449) by Ivan Turgenev
+
+<br>
+
 ## 2017
 
 * [The Shortest History of Europe](https://www.amazon.com/dp/1863955658/ref=cm_sw_r_cp_dp_T1_XGhtzb9WH5SN5) by John Hirst
