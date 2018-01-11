@@ -5,6 +5,7 @@ layout: default
 ## 2018
 
 * [First Love and other Tales](https://www.amazon.com/First-Other-Norton-Library-Paperback/dp/0393004449) by Ivan Turgenev
+* [La Légèreté](https://www.amazon.fr/L%C3%A9g%C3%A8ret%C3%A9-0-Catherine-Meurisse/dp/2205075667) by Catherine Meurisse  
 
 <br>
 
