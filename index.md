@@ -22,6 +22,8 @@ My research is in natural language processing and machine learning. I'm particul
 
 ## News
 
+February 2018: Our paper [Evaluating the Stability of Embedding-based Word Similarities](https://transacl.org/ojs/index.php/tacl/article/view/1202) has been published in TACL!
+
 October 2017: Attending NovelTM in Montreal, Canada  
 
 May-August 2017: Interning at Rakuten in Seattle, WA
