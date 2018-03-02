@@ -115,5 +115,10 @@ If you have any favorite data science resources, please leave them in the commen
 <br><br>
 
 {% if page.comments %}
-
+<div
+    class="just-comments"
+    data-allowguests="true"
+    data-apikey="f361f69a-0f3a-4cd1-aa96-b9ed3c702ad4">
+  </div>
+  <script async src="https://just-comments.com/w.js"></script>
 {% endif %}
