@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Data Science Resources: Interview Prep"
-date:   2018-05-01
+date:   2018-01-01
+comments: true
 ---
 
 # Data Science Resources: Interview Prep
@@ -27,7 +28,7 @@ Some of these explanations are so creative and thoughtful; it's clear the author
 * [ML Cheatsheet: Calculus](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 * [Stanford Probabilistic Graphical Models: Probability review](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/) by Volodymyr Kuleshov and Stefano Ermon
 * [Probability Cheat Sheet](http://www.wzchen.com/probability-cheatsheet/) by Joe Blitzstein and William Chen
-* [PennState Statistics: Confidence Intervals](https://onlinecourses.science.psu.edu/statprogram/node/135) by ?
+* [PennState Statistics: Confidence Intervals](https://onlinecourses.science.psu.edu/statprogram/node/135)
 
 <br>
 
@@ -112,3 +113,12 @@ If you have any favorite data science resources, please leave them in the commen
 (I have tried to credit the authors wherever possible, but I couldn't find a few of them! If you know who created these, please leave a comment.)
 
 <br><br>
+
+{% if page.comments %}
+<div
+    class="just-comments"
+    data-allowguests="true"
+    data-apikey="f361f69a-0f3a-4cd1-aa96-b9ed3c702ad4">
+  </div>
+  <script async src="https://just-comments.com/w.js"></script>
+{% endif %}
