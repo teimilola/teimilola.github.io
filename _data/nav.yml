@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Blog"
+  link: "blog"
+
 - name: "Publications"
   link: "publications"
 

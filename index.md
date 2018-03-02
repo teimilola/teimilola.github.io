@@ -36,9 +36,4 @@ January 2017: Attending the Amazon Graduate Research Symposium in Seattle, WA
 
 Spring 2017: TA for [CS 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
 
-<br>
-
-<!-- ## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London -->
+<br><br>
