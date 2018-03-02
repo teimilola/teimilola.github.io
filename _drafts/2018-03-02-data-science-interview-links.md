@@ -2,7 +2,6 @@
 layout: post
 title:  "Data Science Resources: Interview Prep"
 date:   2018-01-01
-comments: true
 ---
 
 # Data Science Resources: Interview Prep
@@ -113,7 +112,3 @@ If you have any favorite data science resources, please leave them in the commen
 (I have tried to credit the authors wherever possible, but I couldn't find a few of them! If you know who created these, please leave a comment.)
 
 <br><br>
-
-{% if page.comments %}
-
-{% endif %}
