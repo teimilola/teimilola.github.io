@@ -16,11 +16,13 @@ I have a master's degree in computational linguistics from the University of Was
 
 ## Research Interests
 
-My research is in natural language processing and machine learning. I'm particularly interested in unsupervised and semi-supervised techniques, such as word embeddings and topic modeling. I study how these techniques can be used to explore new datasets, ranging from literature to social media, and solve problems of semantic similarity, such as synonym and paraphrase detection.
+My research is in natural language processing and machine learning. I'm interested in unsupervised and semi-supervised techniques, such as word embeddings and topic modeling. I study how these techniques can be used to explore new datasets, ranging from literature to social media, and solve problems of semantic similarity, such as synonym and paraphrase detection.
 
 <br>
 
 ## News
+
+Summer 2018: Interning at Microsoft with [Project EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)  
 
 February 2018: Our paper [Evaluating the Stability of Embedding-based Word Similarities](https://transacl.org/ojs/index.php/tacl/article/view/1202) has been published in TACL!
 

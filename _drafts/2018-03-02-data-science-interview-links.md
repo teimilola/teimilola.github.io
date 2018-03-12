@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science Resources: Interview Prep"
-date:   2018-01-01
+date:   2018-05-01
 ---
 
 # Data Science Resources: Interview Prep
@@ -11,6 +11,14 @@ A roundup of my favorite blog posts, course slides, Quora and StackExchange answ
 There are lots of resources available, but these are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete; they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader.
 
 Some of these explanations are so creative and thoughtful; it's clear the authors put a lot of time and care into them!
+
+*If you are just getting started in machine learning...*
+
+Start with Andrew Ng's machine learning course.
+
+*If you are already familiar with machine learning...*
+
+Still start with Andrew Ng's machine learning course. It's a great review, and there are some details in his lectures that I hadn't encountered before.
 
 <br>
 
@@ -109,6 +117,6 @@ Some of these explanations are so creative and thoughtful; it's clear the author
 
 If you have any favorite data science resources, please leave them in the comments!
 
-(I have tried to credit the authors wherever possible, but I couldn't find a few of them! If you know who created these, please leave a comment.)
+(I have tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please leave a comment!)
 
 <br><br>

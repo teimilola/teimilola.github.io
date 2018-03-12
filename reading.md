@@ -8,6 +8,7 @@ layout: default
 * [La Légèreté](https://www.amazon.fr/L%C3%A9g%C3%A8ret%C3%A9-0-Catherine-Meurisse/dp/2205075667) by Catherine Meurisse  
 * [Autobiography of a Corpse](https://www.amazon.com/Autobiography-Corpse-Review-Books-Classics/dp/1590176707) by Sigizmund Krzhizhanovsky  
 * [Everest: The Unclimbed Ridge](https://www.goodreads.com/book/show/1129969.Everest) by Chris Bonington and Charles Clarke  
+* [The Mill on the Floss](https://www.goodreads.com/book/show/20564.The_Mill_on_the_Floss) by George Eliot
 
 
 <br>
