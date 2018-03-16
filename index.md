@@ -28,9 +28,6 @@ February 2018: Our paper [Evaluating the Stability of Embedding-based Word Simil
 
 October 2017: Attending NovelTM in Montreal, Canada  
 
-May-August 2017: Interning at Rakuten in Seattle, WA
-
-January 2017: Attending the Amazon Graduate Research Symposium in Seattle, WA
 
 <br>
 
