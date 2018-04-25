@@ -8,9 +8,9 @@ date:   2018-05-01
 
 A roundup of my favorite blog posts, course slides, Quora and StackExchange answers, and miscellaneous other resources that cover the basics of most machine learning and data science interviews.
 
-There are lots of resources available, but these are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete; they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader.
+These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader.
 
-Some of these explanations are so creative and thoughtful; it's clear the authors put a lot of time and care into them!
+Some of these explanations are so creative and thoughtful---it's clear the authors put a lot of time and care into them---
 
 *If you are just getting started in machine learning...*
 
