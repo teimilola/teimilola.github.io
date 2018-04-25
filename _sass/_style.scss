@@ -71,6 +71,10 @@ hr {
 .wrapper {
     min-height: 100%;
 }
+.just-comments {
+    max-width: $max-width;
+    margin: auto;
+}
 
 /* Mobile */
 
@@ -78,6 +82,11 @@ hr {
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
+    }
+
+    .just-comments {
+        max-width: $med-width;
+        margin: auto;
     }
 }
 
@@ -87,6 +96,10 @@ hr {
     }
     .navbar-ul {
         margin-top: 5px;
+    }
+
+    .just-comments {
+        max-width: 83%;
     }
 }
 
