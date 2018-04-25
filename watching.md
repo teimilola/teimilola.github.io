@@ -12,6 +12,8 @@ layout: default
 * [Gangs of New York]()
 * [La Grande Illusion]()
 * [The African Queen]()
+* Black Panther
+* Rust and Bone
 
 
 
