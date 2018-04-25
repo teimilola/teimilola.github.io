@@ -82,14 +82,14 @@
         {% else %}
             <div class="container content">
                 {{ content }}
-                <div
-                  class="just-comments"
-                  data-allowguests="true"
-                  data-apikey="f361f69a-0f3a-4cd1-aa96-b9ed3c702ad4">
-                </div>
             </div>
         {% endif %}
-
+        <div
+          class="just-comments"
+          data-allowguests="true"
+          data-apikey="f361f69a-0f3a-4cd1-aa96-b9ed3c702ad4"
+          style="margin:0 auto;">
+        </div>
     </div>
     {% if site.tracking_id %}
         <script>
