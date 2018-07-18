@@ -22,9 +22,11 @@ My research is in natural language processing and machine learning. I'm interest
 
 ## News
 
+September 2018: Attending the doctoral consortium at [Text as Data](https://nlp.washington.edu/tada2018)  
+
 June 2018: Attending NAACL to present our [TACL paper](https://transacl.org/ojs/index.php/tacl/article/view/1202)  
 
-Summer 2018: Interning at Microsoft with [Project EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)  
+Summer 2018: Interning at Microsoft Research with [Project EmpowerMD](https://www.microsoft.com/en-us/research/project/empowermd/)  
 
 February 2018: Our paper [Evaluating the Stability of Embedding-based Word Similarities](https://transacl.org/ojs/index.php/tacl/article/view/1202) has been published in TACL!
 
