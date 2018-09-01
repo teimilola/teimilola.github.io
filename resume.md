@@ -37,6 +37,13 @@ August 2007 - May 2011
 
 ## INDUSTRY EXPERIENCE
 
+### Microsoft
+Research Intern
+Redmond, WA
+May - August 2018
+* Mentor: Ranjani Ramamurthy
+*  Worked on Project EmpowerMD (production of an automated medical scribe) and focused on unsupervised extractive summarization of a small dataset of clinical dialogues.
+
 ### Rakuten  
 Software Engineering Intern  
 Seattle, WA  
