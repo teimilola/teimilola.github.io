@@ -10,6 +10,7 @@ layout: default
 * [Everest: The Unclimbed Ridge](https://www.goodreads.com/book/show/1129969.Everest) by Chris Bonington and Charles Clarke  
 * [The Mill on the Floss](https://www.goodreads.com/book/show/20564.The_Mill_on_the_Floss) by George Eliot
 * [1Q84](https://www.amazon.com/1Q84-Vintage-International-Haruki-Murakami/dp/0307476464) by Haruki Murakami
+* [The Hunting Gun](https://www.amazon.com/Hunting-Gun-Pushkin-Collection/dp/1782270019/) by Yasushi Inoue
 * [Out of Africa](https://www.amazon.com/Africa-Modern-Library-Nonfiction-Books/dp/0679600213) by Isak Dinesen
 
 
