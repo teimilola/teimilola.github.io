@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<br>
+
 A PDF of myr resume can be downloaded [here](http://maria-antoniak.github.io/maria_antoniak.pdf).
 
 <br><br>
