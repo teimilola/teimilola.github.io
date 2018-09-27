@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[PDF](http://maria-antoniak.github.io/maria_antoniak.pdf)
+A PDF of myr resume can be downloaded [here](http://maria-antoniak.github.io/maria_antoniak.pdf).
 
-<br>
+<br><br>
 
----
+<!-- ---
 
 ## EDUCATION
 
@@ -160,8 +160,9 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## PUBLICATIONS
 
-* Antoniak, Maria, Jeff Dagliesh, and Justin Lo. ”Natural Language Processing Techniques on Oil and Gas Drilling Data.” *SPE Intelligent Energy Conference and Exhibition*. 2016.
-* Antoniak, Maria, Eric Bell, and Fei Xia. ”Leveraging Paraphrase Labels to Extract Synonyms from Twitter.” *The Twenty-Eighth International Florida Artificial Intelligence Research Society Conference*. 2015.
+* Maria Antoniak and David Mimno. "Evaluating the Stability of Embedding-based Word Similarities." *Transactions of the Association for Computational Linguistics (TACL)*. 2018.
+* Maria Antoniak, Jeff Dagliesh, and Justin Lo. ”Natural Language Processing Techniques on Oil and Gas Drilling Data.” *SPE Intelligent Energy Conference and Exhibition*. 2016.
+* Maria Antoniak, Eric Bell, and Fei Xia. ”Leveraging Paraphrase Labels to Extract Synonyms from Twitter.” *The Twenty-Eighth International Florida Artificial Intelligence Research Society Conference*. 2015.
 
 <br>
 
@@ -169,7 +170,7 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 
 ## POSTERS
 
-* Antoniak, Maria, Eric Bell, and Fei Xia. ”Extracting Topically Related Synonyms from Twitter.” In *Workshop for Women in Machine Learning (WiML)*, collocated with *NIPS 2015*.
+* Maria Antoniak, Eric Bell, and Fei Xia. ”Extracting Topically Related Synonyms from Twitter.” In *Workshop for Women in Machine Learning (WiML)*, collocated with *NIPS 2015*.
 
 <br>
 
@@ -192,4 +193,4 @@ English (native), French (intermediate), Ukrainian (beginning), Italian (beginni
 Lisbon Machine Learning Summer School (LxMLS), July 2016   
 
 <br>
-<br>
+<br> -->
