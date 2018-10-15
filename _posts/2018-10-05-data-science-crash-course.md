@@ -10,7 +10,7 @@ A roundup of my favorite blog posts, course slides, Quora and StackExchange answ
 
 These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader.
 
-Some of these explanations are so creative and thoughtful; it's clear the authors put a lot of time and care into their creation, and I find that altruistic sharing of knowledge inspiring!
+Some of these explanations are so creative and thoughtful; it's clear the authors put a lot of time and care into them, and I find that altruistic sharing of knowledge inspiring!
 
 
 <br>
@@ -108,6 +108,6 @@ Some of these explanations are so creative and thoughtful; it's clear the author
 
 <br>
 
-(I have tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please let me know!)
+(I have tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please contact me!)
 
 <br><br><br>
