@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science Crash Course: Interview Prep"
-date:   2018-05-01
+date:   2018-10-15
 ---
 
 # Data Science Crash Course: Interview Prep
@@ -12,13 +12,6 @@ These are the explanations I personally found most useful and intuitive. In part
 
 Some of these explanations are so creative and thoughtful; it's clear the authors put a lot of time and care into their creation, and I find that altruistic sharing of knowledge inspiring!
 
-*If you are just getting started in machine learning...*
-
-Start with Andrew Ng's machine learning course.
-
-*If you are already familiar with machine learning...*
-
-Still start with Andrew Ng's machine learning course. It's a great review, and there are some details in his lectures that I hadn't encountered before.
 
 <br>
 
@@ -28,7 +21,7 @@ Still start with Andrew Ng's machine learning course. It's a great review, and t
 
 <br>
 
-### Review: Statistics, Information Theory, and Math
+### Statistics, Information Theory, and Math
 * [Combinatorics Cheat Sheet](mste.illinois.edu/projects/aims/files/2007/lpitt/combinatorics-cheat-sheet.doc)
 * [On Measures of Entropy and Information](http://threeplusone.com/gec/note) by Gavin E. Crooks
 * [Harvard Statistics: Math Review for Stat 110](https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf) by Joe Blitzstein
@@ -117,4 +110,4 @@ Still start with Andrew Ng's machine learning course. It's a great review, and t
 
 (I have tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please let me know!)
 
-<br><br>
+<br><br><br>
