@@ -12,7 +12,7 @@ These are the explanations I personally found most useful and intuitive. In part
 
 This list isn't meant to be comprehensive, and it certainly shows my biases towards NLP and unsupervised methods. Pick and choose what's useful for you! And if you're just getting started with machine learning, I'd recommend taking a structured course, either through your university or through an online resources like Coursera.
 
-The explanations and visualizations are often so creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
+These explanations and visualizations are often so creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
 
 
 <br>
