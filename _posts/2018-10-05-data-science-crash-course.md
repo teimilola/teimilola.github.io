@@ -127,6 +127,6 @@ The explanations and visualizations are often so creative and thoughtful, and I 
 
 <br>
 
-(I have tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please contact me!)
+(I've tried to credit the authors wherever possible, but I couldn't identify a few of them. If you know who created these resources, please contact me!)
 
 <br><br><br>
