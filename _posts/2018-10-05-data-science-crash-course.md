@@ -8,9 +8,11 @@ date:   2018-10-29
 
 Internship application season is coming up! If you're studying for interviews, it can be hard to know where to start. Here is a roundup of my favorite blog posts, course slides, Quora and StackExchange answers, and miscellaneous other resources that cover the basics of most machine learning and data science interviews.
 
-These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader. This list isn't meant to be comprehensive, and it definitely shows my biases towards NLP and unsupervised methods. 
+These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader. 
 
-Some of these explanations are so creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
+This list isn't meant to be comprehensive, and it certainly shows my biases towards NLP and unsupervised methods. Pick and choose what's useful for you! And if you're just getting started with machine learning, I'd recommend taking a structured course, either through your university or through an online resources like Coursera.
+
+The explanations and visualizations are often so creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
 
 
 <br>
