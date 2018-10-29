@@ -97,6 +97,14 @@ Some of these explanations are so creative and thoughtful, and I want to thank e
 
 <br>
 
+### Deep Learning
+* [fast.ai](http://www.fast.ai/) by Jeremy Howard and Rachel Thomas
+* [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Christopher Olah
+* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf) by Yoav Goldberg
+
+<br>
+
 ### Regularization
 * [StackExchange: What is regularization in plain english?](https://stats.stackexchange.com/questions/4961/what-is-regularization-in-plain-english) by Toby Kelsey
 * [Quora: What is regularization in machine learning?](https://www.quora.com/What-is-regularization-in-machine-learning) by Yassine Alouini
