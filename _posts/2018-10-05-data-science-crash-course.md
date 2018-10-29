@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science Crash Course: Interview Prep"
-date:   2018-10-15
+date:   2018-10-29
 ---
 
 # Data Science Crash Course: Interview Prep
