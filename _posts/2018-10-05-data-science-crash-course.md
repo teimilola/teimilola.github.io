@@ -10,9 +10,9 @@ Internship application season is coming up! If you're studying for interviews, i
 
 These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader. 
 
-This list isn't meant to be comprehensive, and it certainly shows my biases towards NLP and unsupervised methods. Pick and choose what's useful for you! And if you're just getting started with machine learning, I'd recommend taking a structured course, either through your university or through an online resources like Coursera.
+This list isn't meant to be comprehensive, and it certainly shows my biases towards NLP and unsupervised methods. Pick and choose what's useful for you! And if you're just getting started with machine learning, I'd recommend taking a structured course, either through your university or through a free online resource like Coursera.
 
-These explanations and visualizations are often so creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
+These explanations and visualizations are often very creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
 
 
 <br>
