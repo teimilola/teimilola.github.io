@@ -6,11 +6,11 @@ date:   2018-10-15
 
 # Data Science Crash Course: Interview Prep
 
-A roundup of my favorite blog posts, course slides, Quora and StackExchange answers, and miscellaneous other resources that cover the basics of most machine learning and data science interviews.
+Internship application season is coming up, and so here is a roundup of my favorite blog posts, course slides, Quora and StackExchange answers, and miscellaneous other resources that cover the basics of most machine learning and data science interviews.
 
-These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader.
+These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader. 
 
-Some of these explanations are so creative and thoughtful; it's clear the authors put a lot of time and care into them, and I find that altruistic sharing of knowledge inspiring!
+Some of these explanations are so creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
 
 
 <br>
@@ -21,7 +21,7 @@ Some of these explanations are so creative and thoughtful; it's clear the author
 
 <br>
 
-### Statistics, Information Theory, and Math
+### Statistics, Probability, and Information Theory
 * [Combinatorics Cheat Sheet](mste.illinois.edu/projects/aims/files/2007/lpitt/combinatorics-cheat-sheet.doc)
 * [On Measures of Entropy and Information](http://threeplusone.com/gec/note) by Gavin E. Crooks
 * [Harvard Statistics: Math Review for Stat 110](https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf) by Joe Blitzstein
@@ -29,6 +29,14 @@ Some of these explanations are so creative and thoughtful; it's clear the author
 * [Stanford Probabilistic Graphical Models: Probability review](https://ermongroup.github.io/cs228-notes/preliminaries/probabilityreview/) by Volodymyr Kuleshov and Stefano Ermon
 * [Probability Cheat Sheet](http://www.wzchen.com/probability-cheatsheet/) by Joe Blitzstein and William Chen
 * [PennState Statistics: Confidence Intervals](https://onlinecourses.science.psu.edu/statprogram/node/135)
+
+<br>
+
+### Linear Algebra
+* [Understanding Principal Component Analysis](https://medium.com/@aptrishu/understanding-principle-component-analysis-e32be0253ef0) by Rishav Kumar
+* [A tutorial on Principal Components Analysis](http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf) by Lindsay I. Smith
+* [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf) by Jonathon Shlens
+* [Singular Value Decomposition Tutorial](http://site.iugaza.edu.ps/ahdrouss/files/2010/03/Singular_Value_Decomposition_Tutorial.pdf) by Kirk Baker
 
 <br>
 
@@ -105,6 +113,7 @@ Some of these explanations are so creative and thoughtful; it's clear the author
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong) by Cheng-Tao Chu
 * [Machine Learning for Dummies Cheat Sheet](http://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/) by John Paul Mueller and Luca Massaron
 * [Classification Model Pros and Cons](https://github.com/ctufts/Cheat_Sheets/wiki/Classification-Model-Pros-and-Cons) by Chris Tufts
+* [Handbook of Biological Statistics](http://www.biostathandbook.com/) by John H. McDonald
 
 <br>
 
