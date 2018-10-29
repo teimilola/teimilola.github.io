@@ -110,7 +110,7 @@ The explanations and visualizations are often so creative and thoughtful, and I 
 ### Regularization
 * [StackExchange: What is regularization in plain english?](https://stats.stackexchange.com/questions/4961/what-is-regularization-in-plain-english) by Toby Kelsey
 * [Quora: What is regularization in machine learning?](https://www.quora.com/What-is-regularization-in-machine-learning) by Yassine Alouini
-* [Quora: What's a goode way to provide intuition as to why the lasso (L1 regularization) results in sparse weight vectors?](https://www.quora.com/Whats-a-good-way-to-provide-intuition-as-to-why-the-lasso-L1-regularization-results-in-sparse-weight-vectors) by Phillip Adkins (the second answer)
+* [Quora: What's a good way to provide intuition as to why the lasso (L1 regularization) results in sparse weight vectors?](https://www.quora.com/Whats-a-good-way-to-provide-intuition-as-to-why-the-lasso-L1-regularization-results-in-sparse-weight-vectors) by Phillip Adkins (the second answer)
 * [L1 Norm Regularization and Sparsity Explained for Dummies](https://medium.com/mlreview/l1-norm-regularization-and-sparsity-explained-for-dummies-5b0e4be3938a) by Shi Yan
 * [Machine Learning Explained: Regularization](http://enhancedatascience.com/2017/07/04/machine-learning-explained-regularization/) by Antoine Guillot (?)
 * [l0-Norm, l1-Norm, l2-Norm, ..., l-infinity Norm](https://rorasa.wordpress.com/2012/05/13/l0-norm-l1-norm-l2-norm-l-infinity-norm/) by Wattanit Hotrakool
