@@ -50,7 +50,7 @@ These explanations and visualizations are often very creative and thoughtful. Th
 <br>
 
 ### Perceptron
-* [Orebro University: The Simple Perceptron](https://www.oru.se/aass)
+* [Orebro University: The Simple Perceptron](http://130.243.105.49/~lilien/ml/seminars/2007_02_01b-Janecek-Perceptron.pdf)
 * [StackOverflow: Intuition for perceptron weight update rule](https://stackoverflow.com/questions/34477827/intuition-for-perceptron-weight-update-rule) by Ami Tavory  
 * [StackExchange: Question regarding weight update rule in Perceptron](https://stats.stackexchange.com/questions/253240/question-regarding-weight-update-rule-in-perceptron) by Arman
 * [Deep Learning: The Straight Dope: The Perceptron](http://gluon.mxnet.io/chapter02_supervised-learning/perceptron.html)
