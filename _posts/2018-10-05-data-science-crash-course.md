@@ -1,18 +1,20 @@
 ---
 layout: post
 title:  "Data Science Crash Course: Interview Prep"
-date:   2018-10-29
+date:   2018-11-19
 ---
 
 # Data Science Crash Course: Interview Prep
 
 Internship application season is coming up! If you're studying for interviews, it can be hard to know where to start, so I've created a roundup of my favorite blog posts, course slides, Quora and StackExchange answers, and miscellaneous other resources that cover the basics of most machine learning and data science interviews.
 
+Machine learing internship interviews often have three components: (1) an informational phone call, (2) a coding and/or machine learning phone screen, and (3) an in-person coding and/or machine learning interview, sometimes with a presentation. Depending on the company, some or all of these components may be required. The resources I listed below will be most useful for studying for the machine learning phone screen, in which you'll probably be asked to answer lots of basic questions about machine learning algorithms (e.g. "What is precision?" "Do you know what SVMs are? How do they work?").
+
 These are the explanations I personally found most useful and intuitive. In particular, I look for resources that are both simple and complete: they lack clutter but they also explain every step without glossing or assuming knowledge on the part of the reader. 
 
 This list isn't meant to be comprehensive, and it certainly shows my biases towards NLP and unsupervised methods. Pick and choose what's useful for you! And if you're just getting started with machine learning, I'd recommend taking a structured course, either through your university or through a free online resource like Coursera.
 
-These explanations and visualizations are often very creative and thoughtful, and I want to thank each of these authors for taking the time to craft and share these resources.
+These explanations and visualizations are often very creative and thoughtful. Thank you to each of these authors for taking the time to craft and share these resources!
 
 
 <br>
