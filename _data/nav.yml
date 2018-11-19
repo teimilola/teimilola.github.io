@@ -2,13 +2,13 @@
   link: "contact"
 
 - name: "Blog"
-  link: "blog"
+  link: "https://maria-antoniak.github.io/blog"
 
 - name: "Publications"
-  link: "publications"
+  link: "https://maria-antoniak.github.io/publications"
 
 - name: "Resume"
-  link: "resume"
+  link: "https://maria-antoniak.github.io/resume"
 
 - name: "About"
-  link: "/"
+  link: "https://maria-antoniak.github.io/"
