@@ -26,7 +26,7 @@ These explanations and visualizations are often very creative and thoughtful. Th
 <br>
 
 ### Statistics, Calculus, and Information Theory
-* [Combinatorics Cheat Sheet](mste.illinois.edu/projects/aims/files/2007/lpitt/combinatorics-cheat-sheet.doc)
+* [Combinatorics Cheat Sheet](https://mste.illinois.edu/projects/aims/files/2007/lpitt/combinatorics-cheat-sheet.doc)
 * [On Measures of Entropy and Information](http://threeplusone.com/gec/note) by Gavin E. Crooks
 * [Harvard Statistics: Math Review for Stat 110](https://projects.iq.harvard.edu/files/stat110/files/math_review_handout.pdf) by Joe Blitzstein
 * [ML Cheatsheet: Calculus](http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
