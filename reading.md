@@ -13,7 +13,8 @@ layout: default
 * [The Hunting Gun](https://www.amazon.com/Hunting-Gun-Pushkin-Collection/dp/1782270019/) by Yasushi Inoue
 * [Out of Africa](https://www.amazon.com/Africa-Modern-Library-Nonfiction-Books/dp/0679600213) by Isak Dinesen
 * [Subtly Worded](https://www.amazon.com/Subtly-Worded-Pushkin-Collection-Teffi/dp/178227037X) by Teffi  
-
+* [Message to the Planet](https://www.amazon.com/Message-Planet-Iris-Murdoch/dp/0140126643) by Iris Murdoch  
+* [Parable of the Sower](https://www.amazon.com/Parable-Sower-Earthseed-Octavia-Butler/dp/0446675504) by Octavia Butler
 
 <br>
 
