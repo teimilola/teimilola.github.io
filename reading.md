@@ -2,6 +2,14 @@
 layout: default
 ---
 
+br>
+
+## 2019
+
+* [Wide Sargasso Sea](https://www.amazon.com/Wide-Sargasso-Sea-Jean-Rhys/dp/0393352560) by Jean Rhys  
+
+<br>
+
 ## 2018
 
 * [First Love and Other Tales](https://www.amazon.com/First-Other-Norton-Library-Paperback/dp/0393004449) by Ivan Turgenev
