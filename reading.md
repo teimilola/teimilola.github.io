@@ -7,6 +7,7 @@ layout: default
 ## 2019
 
 * [Wide Sargasso Sea](https://www.amazon.com/Wide-Sargasso-Sea-Jean-Rhys/dp/0393352560) by Jean Rhys  
+* [Dubliners](https://www.amazon.com/Dubliners-James-Joyce/dp/1580491650) by James Joyce  
 
 <br>
 
