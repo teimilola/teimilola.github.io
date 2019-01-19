@@ -25,7 +25,7 @@ layout: default
 * [Black Panther](https://www.imdb.com/title/tt1825683/)
 * [Rust and Bone](https://www.imdb.com/title/tt2053425/)
 * [Annihilation](https://www.imdb.com/title/tt2798920/)
-* [A Quiet Place](https://www.imdb.com/title/tt6644200/)
+* [A Quiet Place](https://www.imdb.com/title/tt6644200/
 * [Mission: Impossible - Fallout](https://www.imdb.com/title/tt4912910/)
 * [Westworld](https://www.imdb.com/title/tt0475784/)
 * [Black BlacKkKlansman](https://www.imdb.com/title/tt7349662/)

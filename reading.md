@@ -8,6 +8,7 @@ layout: default
 
 * [Wide Sargasso Sea](https://www.amazon.com/Wide-Sargasso-Sea-Jean-Rhys/dp/0393352560) by Jean Rhys  
 * [Dubliners](https://www.amazon.com/Dubliners-James-Joyce/dp/1580491650) by James Joyce  
+* [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252) by Nnedi Okorafor  
 
 <br>
 
