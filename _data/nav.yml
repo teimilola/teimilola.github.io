@@ -10,8 +10,8 @@
 - name: "Publications"
   link: "https://maria-antoniak.github.io/publications"
 
-- name: "Resume"
-  link: "https://maria-antoniak.github.io/resume"
+- name: "CV"
+  link: "https://maria-antoniak.github.io/cv"
 
-# - name: "About"
-#   link: "https://maria-antoniak.github.io/"
+- name: "About"
+  link: "https://maria-antoniak.github.io/"
