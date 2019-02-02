@@ -37,6 +37,8 @@ October 2017: Attending NovelTM in Montreal, Canada
 
 ## Teaching
 
-Spring 2017: TA for [CS 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
+Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/info3300/)  
+  
+Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
 
 <br><br>

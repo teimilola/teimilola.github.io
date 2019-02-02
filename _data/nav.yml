@@ -1,6 +1,9 @@
 - name: "Contact"
   link: "https://maria-antoniak.github.io/contact"
 
+- name: "Reading"
+  link: "https://maria-antoniak.github.io/reading"
+
 - name: "Blog"
   link: "https://maria-antoniak.github.io/blog"
 
@@ -10,5 +13,5 @@
 - name: "Resume"
   link: "https://maria-antoniak.github.io/resume"
 
-- name: "About"
-  link: "https://maria-antoniak.github.io/"
+# - name: "About"
+#   link: "https://maria-antoniak.github.io/"
