@@ -11,6 +11,7 @@ layout: default
 * [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252), [Binti: Home](https://www.amazon.com/Binti-Home-Nnedi-Okorafor/dp/0765393115), and [Binti: The Night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Nnedi-Okorafor/dp/0765393131) by Nnedi Okorafor  
 * [City of Lions](https://www.amazon.com/Lions-Pushkin-Collection-Jozef-Wittlin/dp/1782271171) by Jozef Wittlin and Philippe Sands  
 * [The Cemetery in Barnes](https://www.amazon.com/gp/product/1784105465) by Gabriel Josipovici  
+* [In a Lonely Place](https://www.amazon.com/Lonely-Place-York-Review-Books/dp/1681371472) by Dorothy B. Hughes  
 
 <br>
 
