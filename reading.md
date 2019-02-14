@@ -12,6 +12,7 @@ layout: default
 * [City of Lions](https://www.amazon.com/Lions-Pushkin-Collection-Jozef-Wittlin/dp/1782271171) by Jozef Wittlin and Philippe Sands  
 * [The Cemetery in Barnes](https://www.amazon.com/gp/product/1784105465) by Gabriel Josipovici  
 * [In a Lonely Place](https://www.amazon.com/Lonely-Place-York-Review-Books/dp/1681371472) by Dorothy B. Hughes  
+* [The Ice Palace](https://www.amazon.com/Ice-Palace-Tarjei-Vesaas/dp/0241321212) by Tarjei Vesaas  
 
 <br>
 
