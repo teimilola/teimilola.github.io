@@ -25,7 +25,7 @@ My research is in natural language processing and machine learning. I'm interest
 * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
 * Minor in [Computer Science](https://www.cs.cornell.edu/)
-* Interests: NLP, ML, unsupervised methods, digital humanities, computational social science
+<!-- * Interests: NLP, ML, unsupervised methods, digital humanities, computational social science -->
 
 <br>
 
