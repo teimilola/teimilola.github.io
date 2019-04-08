@@ -39,6 +39,12 @@ My research is in natural language processing and machine learning. I'm interest
 
 <br>
 
+## Research Interests
+
+NLP, ML, unsupervised methods, digital humanities, computational social science
+
+<br>
+
 ## News
 
 Summer 2019: Interning at Facebook Core Data Science  
