@@ -31,9 +31,9 @@ My research is in natural language processing and machine learning. I'm interest
 
 ## Past
 
-* Research Intern, Microsoft Research
+* Intern, Microsoft Research
 * Data Scientist, [Maana](https://www.maana.io/)
-* Research Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
+* Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
 * MS [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
 * BA [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
 
