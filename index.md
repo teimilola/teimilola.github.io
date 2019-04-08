@@ -4,9 +4,9 @@ layout: default
 
 <br>
 
-## Hello!
+<!-- ## Hello! -->
 
-<img class="profile-picture" src="me.jpg">
+<!-- <img class="profile-picture" src="me.jpg"> -->
 
 <!-- I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell University working in natural language processing. My advisor is [David Mimno](https://mimno.infosci.cornell.edu/).
 
@@ -19,6 +19,8 @@ My research is in natural language processing and machine learning. I'm interest
 <br> -->
 
 ## Present
+
+<img class="profile-picture" src="me.jpg">
 
 * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
