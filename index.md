@@ -31,7 +31,7 @@ My research is in natural language processing and machine learning. I'm interest
 
 ## Past
 
-* Intern, Microsoft Research
+* Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
 * Data Scientist, [Maana](https://www.maana.io/)
 * Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
 * MS [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
