@@ -13,6 +13,7 @@ layout: default
 * [The Cemetery in Barnes](https://www.amazon.com/gp/product/1784105465) by Gabriel Josipovici  
 * [In a Lonely Place](https://www.amazon.com/Lonely-Place-York-Review-Books/dp/1681371472) by Dorothy B. Hughes  
 * [The Ice Palace](https://www.amazon.com/Ice-Palace-Tarjei-Vesaas/dp/0241321212) by Tarjei Vesaas  
+* [Solaris](https://www.amazon.com/Solaris-Stanislaw-Lem/dp/0156027607) by Stanislaw Lem
 
 <br>
 
