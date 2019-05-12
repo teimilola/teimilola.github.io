@@ -16,6 +16,8 @@ layout: default
 * [Solaris](https://www.amazon.com/Solaris-Stanislaw-Lem/dp/0156027607) by Stanislaw Lem
 * [Down Below](https://www.amazon.com/Down-Below-Classics-Leonora-Carrington/dp/1681370603) by Leonora Carryington
 * [The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) by Cixin Liu
+* [The Only Harmless Great Thing](https://www.amazon.com/Only-Harmless-Great-Thing/dp/1250169488) by Brooke Bolander  
+* [Masks](https://www.amazon.com/Masks-Fumiko-Enchi/dp/0394722183) by Fumiko Enchi  
 
 <br>
 
