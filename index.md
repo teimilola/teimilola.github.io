@@ -49,7 +49,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 Summer 2019: Interning at Facebook Core Data Science  
 
-June 2019: Attending the NAACL 2019 [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/)
+June 2019: Speaking at the NAACL 2019 [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/)
 
 September 2018: Attending the doctoral consortium at [Text as Data](https://nlp.washington.edu/tada2018)  
 
