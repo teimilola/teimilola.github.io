@@ -18,6 +18,7 @@ layout: default
 * [The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032) by Cixin Liu
 * [The Only Harmless Great Thing](https://www.amazon.com/Only-Harmless-Great-Thing/dp/1250169488) by Brooke Bolander  
 * [Masks](https://www.amazon.com/Masks-Fumiko-Enchi/dp/0394722183) by Fumiko Enchi  
+* [In Cold Blood](https://www.amazon.com/Cold-Blood-Truman-Capote/dp/0679745580) by Truman Capote
 
 <br>
 
