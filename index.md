@@ -47,7 +47,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
-Summer 2019: Interning at Facebook Core Data Science  
+Summer 2019: Interning at [Facebook Core Data Science](https://research.fb.com/category/data-science/)  
 
 June 2019: Speaking at the NAACL 2019 [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/)
 
