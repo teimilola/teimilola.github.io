@@ -22,7 +22,6 @@ My research is in natural language processing and machine learning. I'm interest
 
 <img class="profile-picture" src="me.jpg">
 
-* Interning at [Facebook Core Data Science](https://research.fb.com/core-data-science/)
 * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
 * Minor in [Computer Science](https://www.cs.cornell.edu/)
