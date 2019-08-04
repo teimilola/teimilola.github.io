@@ -21,7 +21,7 @@ layout: default
 * [In Cold Blood](https://www.amazon.com/Cold-Blood-Truman-Capote/dp/0679745580) by Truman Capote
 * [Educated](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501) by Tara Westover
 * [A View from the Harbour](https://www.amazon.com/View-Harbour-Review-Books-Classics/dp/1590178483) by Elizabeth Taylor
-* [The Odyssey](https://www.amazon.com/Odyssey-Homer/dp/0393356256/) by Home (Translated by Emily Wilson)
+* [The Odyssey](https://www.amazon.com/Odyssey-Homer/dp/0393356256/) by Homer (translated by Emily Wilson)
 
 <br>
 
