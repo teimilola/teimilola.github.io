@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-A PDF of my resume can be downloaded [here](http://maria-antoniak.github.io/maria_antoniak.pdf).
+A PDF of my resume can be downloaded [here](http://maria-antoniak.github.io/resources/maria_antoniak.pdf).
 
 <br><br>
 
