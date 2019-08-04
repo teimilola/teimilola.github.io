@@ -19,6 +19,8 @@ layout: default
 * [The Only Harmless Great Thing](https://www.amazon.com/Only-Harmless-Great-Thing/dp/1250169488) by Brooke Bolander  
 * [Masks](https://www.amazon.com/Masks-Fumiko-Enchi/dp/0394722183) by Fumiko Enchi  
 * [In Cold Blood](https://www.amazon.com/Cold-Blood-Truman-Capote/dp/0679745580) by Truman Capote
+* [Educated](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501) by Tara Westover
+* [A View from the Harbour](https://www.amazon.com/View-Harbour-Review-Books-Classics/dp/1590178483) by Elizabeth Taylor
 
 <br>
 

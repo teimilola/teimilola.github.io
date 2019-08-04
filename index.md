@@ -48,17 +48,18 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
+August 2019: Our paper *Narrative Paths and Negotiations of Power in Birth Stories* has been conditionally accepted to CSCW
+
 Summer 2019: Interning at [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 
 June 2019: Speaking at the NAACL 2019 [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/)
 
-September 2018: Attending the doctoral consortium at [Text as Data](https://nlp.washington.edu/tada2018)  
-
-June 2018: Attending NAACL 2018 to present our [TACL paper](https://transacl.org/ojs/index.php/tacl/article/view/1202)  
 
 <br>
 
 ## Teaching
+
+Fall 2019: TA for INFO 3350/6350: Text Mining for History Literature
 
 Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/info3300/)  
   
