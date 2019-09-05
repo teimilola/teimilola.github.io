@@ -31,6 +31,7 @@ My research is in natural language processing and machine learning. I'm interest
 
 ## Past
 
+* Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 * Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
 * Data Scientist, [Maana](https://www.maana.io/)
 * Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
@@ -47,7 +48,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
-August 2019: Our paper *Narrative Paths and Negotiations of Power in Birth Stories* has been conditionally accepted to CSCW
+August 2019: Our paper [Narrative Paths and Negotiations of Power in Birth Stories]() has been accepted to CSCW 2019
 
 Summer 2019: Interning at [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 
@@ -58,7 +59,7 @@ June 2019: Speaking at the NAACL 2019 [Workshop on Narrative Understanding](http
 
 ## Teaching
 
-Fall 2019: TA for INFO 3350/6350: Text Mining for History Literature
+Fall 2019: TA for INFO 3350/6350: [Text Mining for History & Literature](https://mimno.infosci.cornell.edu/info3350/)
 
 Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/info3300/)  
   
