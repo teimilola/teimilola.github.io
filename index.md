@@ -47,7 +47,7 @@ My research is in natural language processing and machine learning. I'm interest
 
 ## Research Interests
 
-Natural language processing, unsupervised machine learning, digital humanities, computational social science.
+Natural language processing, unsupervised machine learning, digital humanities, computational social science, NLP for medicine and health.
 
 <br>
 
