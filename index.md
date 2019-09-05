@@ -29,18 +29,19 @@ My research is in natural language processing and machine learning. I'm interest
 
 <br>
 
-## Past
+## Education
 
 * MS in [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
 * BA in [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
 
 <br>
 
+## Industry
+
 * Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 * Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
 * Data Scientist, [Maana](https://www.maana.io/)
 * Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
-
 
 <br>
 
