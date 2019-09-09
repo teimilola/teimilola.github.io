@@ -53,7 +53,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
-August 2019: Our paper [Narrative Paths and Negotiations of Power in Birth Stories]() has been accepted to CSCW 2019
+August 2019: Our paper *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* has been accepted to CSCW 2019
 
 Summer 2019: Interning at [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 
