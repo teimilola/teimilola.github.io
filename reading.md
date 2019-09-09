@@ -22,6 +22,8 @@ layout: default
 * [Educated](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501) by Tara Westover
 * [A View from the Harbour](https://www.amazon.com/View-Harbour-Review-Books-Classics/dp/1590178483) by Elizabeth Taylor
 * [The Odyssey](https://www.amazon.com/Odyssey-Homer/dp/0393356256/) by Homer (translated by Emily Wilson)
+* [Angela's Ashes](https://www.amazon.com/Angelas-Ashes/dp/B0000547CQ/) by Frank McCourt
+* [Some Prefer Nettles](https://www.amazon.com/Some-Prefer-Nettles-Junichiro-Tanizaki/dp/0679752692) by Junichiro Tanizaki
 
 <br>
 
