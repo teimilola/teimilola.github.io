@@ -26,6 +26,7 @@ layout: default
 * [Some Prefer Nettles](https://www.amazon.com/Some-Prefer-Nettles-Junichiro-Tanizaki/dp/0679752692) by Junichiro Tanizaki
 * [Beloved]() by Toni Morrison
 * [Down Girl]() by Kate Manne
+* [Rebecca]() by Daphne du Maurier
 
 <br>
 
