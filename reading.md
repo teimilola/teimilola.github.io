@@ -24,6 +24,8 @@ layout: default
 * [The Odyssey](https://www.amazon.com/Odyssey-Homer/dp/0393356256/) by Homer (translated by Emily Wilson)
 * [Angela's Ashes](https://www.amazon.com/Angelas-Ashes/dp/B0000547CQ/) by Frank McCourt
 * [Some Prefer Nettles](https://www.amazon.com/Some-Prefer-Nettles-Junichiro-Tanizaki/dp/0679752692) by Junichiro Tanizaki
+* [Beloved]() by Toni Morrison
+* [Down Girl]() by Kate Manne
 
 <br>
 

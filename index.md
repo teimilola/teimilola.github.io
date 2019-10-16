@@ -53,6 +53,10 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
+November 2019: Presenting at CSCW in Austin, Texas
+
+October 2019: Attending NovelTM in Banff, Canada
+
 August 2019: Our paper *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* has been accepted to CSCW 2019
 
 Summer 2019: Interning at [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
@@ -69,5 +73,12 @@ Fall 2019: TA for INFO 3350/6350: [Text Mining for History & Literature](https:/
 Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/info3300/)  
   
 Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
+
+<!-- <br>
+
+## Other Things
+
+* I'm the current Treasurer (and former Social Chair) for Graduate Women in Science at Cornell. -->
+
 
 <br><br>
