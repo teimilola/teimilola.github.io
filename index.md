@@ -53,7 +53,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
-November 2019: Presenting at CSCW in Austin, Texas
+November 2019: Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas
 
 October 2019: Attending NovelTM in Banff, Canada
 
