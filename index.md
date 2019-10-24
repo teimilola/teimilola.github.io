@@ -57,8 +57,6 @@ November 2019: Presenting *[Narrative Paths and Negotiations of Power in Birth S
 
 October 2019: Attending NovelTM in Banff, Canada
 
-August 2019: Our paper *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* has been accepted to CSCW 2019
-
 Summer 2019: Interning at [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 
 June 2019: Speaking at the NAACL 2019 [Workshop on Narrative Understanding](https://sites.google.com/view/narrativeunderstanding/)
