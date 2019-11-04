@@ -10,11 +10,15 @@ A few years ago, some personal friends of mine shared their birth stories online
 
 I became interested in the similarities and differences between these stories, and how these stories sometimes follow common narrative patterns. I thought that these stories were extremely powerful, and that presenting and centering these stories could help medical professionals better understand the experiences of pregnant people—and perhaps this improved understanding could, in some small way, help to prevent trauma, disappointment in the birthing experience, and postpartum depression.
 
+<br>
+
 ### Data Collection
 
 I downloaded all the public posts from the subreddit [r/BabyBumps](https://www.reddit.com/r/BabyBumps/) from February 16th, 2011 to February 28th, 2018 that contained the words “birth story” in the post title. This left me with about 3,000 birth stories. I include only the public post title and text.
 
 I never shared this data with anyone else, and I’ve since deleted my own copy of the stories. All of the results in the paper are either paraphrased or averaged, and I never share any identifiable information. I know that these stories are intensely personal, and throughout the project, I’ve worked hard to respect the privacy and ownership of the authors and follow the principles of ethical research as outlined in the [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/index.html). I welcome any questions and/or feedback about the data collection, management, and analysis involved in this project!
+
+<br>
 
 ### Analysis
 
@@ -34,9 +38,14 @@ Figure (a) shows the total power scores for each persona, while Figure (b) shows
 
 ![alt text](https://maria-antoniak.github.io/resources/images/power_charts.png "Power barplot and heatmap")
 
+<br>
 
 ### Conclusion
 
 Some of my results confirm work from prior qualitative studies of birth stories, but as far as I know, this is the first time someone has published a computational analysis of birth stories. There is much more information in the [full paper](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf). 
 
 My hope is that medical professionals and researchers will listen to the voices in these stories. They deserve our attention!
+
+_November 05, 2019_
+
+<br><br><br>
