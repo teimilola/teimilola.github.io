@@ -8,7 +8,7 @@ layout: default
 
 * [Wide Sargasso Sea](https://www.amazon.com/Wide-Sargasso-Sea-Jean-Rhys/dp/0393352560) by Jean Rhys  
 * [Dubliners](https://www.amazon.com/Dubliners-James-Joyce/dp/1580491650) by James Joyce  
-* [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252), [Binti: Home](https://www.amazon.com/Binti-Home-Nnedi-Okorafor/dp/0765393115), and [Binti: The Night Masquerade](https://www.amazon.com/Binti-Night-Masquerade-Nnedi-Okorafor/dp/0765393131) by Nnedi Okorafor  
+* [Binti](https://www.amazon.com/Binti-Nnedi-Okorafor/dp/0765385252) by Nnedi Okorafor  
 * [City of Lions](https://www.amazon.com/Lions-Pushkin-Collection-Jozef-Wittlin/dp/1782271171) by Jozef Wittlin and Philippe Sands  
 * [The Cemetery in Barnes](https://www.amazon.com/gp/product/1784105465) by Gabriel Josipovici  
 * [In a Lonely Place](https://www.amazon.com/Lonely-Place-York-Review-Books/dp/1681371472) by Dorothy B. Hughes  
@@ -24,9 +24,10 @@ layout: default
 * [The Odyssey](https://www.amazon.com/Odyssey-Homer/dp/0393356256/) by Homer (translated by Emily Wilson)
 * [Angela's Ashes](https://www.amazon.com/Angelas-Ashes/dp/B0000547CQ/) by Frank McCourt
 * [Some Prefer Nettles](https://www.amazon.com/Some-Prefer-Nettles-Junichiro-Tanizaki/dp/0679752692) by Junichiro Tanizaki
-* [Beloved]() by Toni Morrison
-* [Down Girl]() by Kate Manne
-* [Rebecca]() by Daphne du Maurier
+* [Beloved](https://www.amazon.com/Beloved-Toni-Morrison/dp/1400033411) by Toni Morrison
+* [Down Girl](https://www.amazon.com/Down-Girl-Misogyny-Kate-Manne/dp/0190933208) by Kate Manne
+* [Rebecca](https://www.amazon.com/Rebecca-Daphne-Maurier-Dam-2002-07-30/dp/B01JQHUDBI) by Daphne du Maurier
+* [Chéri](https://www.amazon.com/Cheri-Last-Colette/dp/0374528012) by Colette
 
 <br>
 
