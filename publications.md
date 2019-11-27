@@ -2,7 +2,7 @@
 layout: default
 ---
 
-* Robert Stewart Griffin, **Maria Antoniak**, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno. "Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score." Frontiers in Neuroscience.
+* Robert Stewart Griffin, **Maria Antoniak**, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno. "Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score." *Frontiers in Neuroscience*. 2019.
 * **Maria Antoniak**, David Mimno, and Karen Levy. "Narrative Paths and Negotiation of Power in Birth Stories." *CSCW*. 2019. [[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)]
 * **Maria Antoniak** and David Mimno. "Evaluating the Stability of Embedding-based Word Similarities." *TACL*. 2018. [[PDF](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2018_naacl_presentation_with_notes.pdf)] [[Video](https://vimeo.com/277670053)]  
 * **Maria Antoniak**, Jeff Dagliesh, and Justin Lo. ”Natural Language Processing Techniques on Oil and Gas Drilling Data.” *SPE Intelligent Energy Conference and Exhibition*. 2016.
