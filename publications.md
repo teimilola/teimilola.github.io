@@ -22,7 +22,7 @@ Maria Antoniak, Jeff Dagliesh, and Justin Lo.
 
 **Leveraging Paraphrase Labels to Extract Synonyms from Twitter.**  
 Maria Antoniak, Eric Bell, and Fei Xia.  
-*The Twenty-Eighth International Florida Artificial Intelligence Research Society Conference*, 2015.  
+*Proceedings of the Florida Artificial Intelligence Research Society Conference*, 2015.  
 [[PDF](https://maria-antoniak.github.io/resources/2015_leveraging_paraphrase.pdf)]  
 
 
