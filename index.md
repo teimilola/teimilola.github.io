@@ -53,6 +53,8 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
+November 2019: Our paper on imagined examples of painful experiences has been accepted by *Frontiers of Neuroscience*
+
 November 2019: Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas
 
 October 2019: Attending NovelTM in Banff, Canada
