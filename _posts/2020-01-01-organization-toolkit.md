@@ -34,7 +34,7 @@ I recently started using Coda as a replacement for Quip, Google Docs, or Evernot
 
 Coda is a newer app, so I'm a bit hesitant to fully rely on it. What if it disappears six months from now? It hasn't complete replaced Evernote or Google Docs in my workflow, but for the limited scope of project notes, I'm enjoying it so far. It's not 100% perfect, but it ticks more of my boxes than the alternatives.
 
-**Pros:** Good UI. Lots of formatting tools. Functional tables. 
+<font color='green'>Pros:</font> Good UI. Lots of formatting tools. Functional tables. 
 
 **Cons:** No table of contents for individual notes. No offline app. Some of the tools are very unintuitive (especially table formatting). 
 
