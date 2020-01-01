@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "My Current Organization Toolkit"
+title:  "My Current Organizational Toolkit"
 date:   2020-01-01
 ---
 
-# My Current Organization Toolkit
+# My Current Organizational Toolkit
 
 I love organizational tools and frequently try out new applications. These are my current favorite tools for research and academic work.
 
 I care a lot about both the functional and the visual aspects of the applications I use. Since I spend so much time working, I'd prefer that I spend that time pleasantly, in an environment that was designed thoughtfully and tastefully. This is an entirely personal preference.
 
+<br>
 
 ## Things
 
@@ -19,10 +20,13 @@ The only to do items I don't track in Things are specific coding tasks for proje
 
 I love Things so much that I have seriously considered getting an iPhone just so that I can access the mobile app.
 
-**Pros:** Beautiful, minimalist UI. Syncs with my Google calendar. Hides what I don't need to think about right now, while allowing me to file all my to do items so that they stop taking up mental space.
+### Pros 
+Beautiful, minimalist UI. Syncs with my Google calendar. Hides what I don't need to think about right now, while allowing me to file all my to do items so that they stop taking up mental space.
 
-**Cons:** Only available in the Apple ecosystem.
+### Cons 
+Only available in the Apple ecosystem.
 
+<br>
 
 ## Coda
 
@@ -34,6 +38,7 @@ Coda is a newer app, so I'm a bit hesitant to fully rely on it. What if it disap
 
 **Cons:** No table of contents for individual notes. No offline app. Some of the tools are very unintuitive (especially table formatting). 
 
+<br>
 
 ## Paperpile
 
@@ -45,6 +50,7 @@ Paperpile has been the least bad option for me. The move from Mendeley was quick
 
 **Cons:** No offline access to papers. Only runs in Chrome. Buggy.
 
+<br>
 
 ## Evernote
 
@@ -58,6 +64,7 @@ All that said, after years of using Evernote, I'm feeling more and more ready to
 
 **Cons:** Lack of text formatting tools. Lack of functional tables. Blocked from creating nested notebooks/folders. 
 
+<br>
 
 ## Pomodoro 
 
@@ -67,6 +74,7 @@ I use the Pomodoro Chrome extension to stay "in the zone" while working. The ide
 
 **Cons:** Notifications are a bit annoying.
 
+<br>
 
 ## Are.na
 
@@ -78,11 +86,11 @@ For example, I maintain a [Women in Tech](https://www.are.na/maria-antoniak/wome
 
 **Cons:** The Chrome extension and mobile app aren't as polished and useful as the ones made by Pinterest.
 
+<br>
 
 ## Google Calendar
 
 This one is obvious (no need to list pros and cons) but I wanted to share a small trick. Instead of color coding all the events in my calendar by type (e.g., teaching, meetings, seminars, appointments), I started color coding by urgency (e.g., required, optional, personal). This way, I can see at a glance which events I can skip and how much time I actually have to work on my own tasks. This really helps me prioritize when I'm feeling overwhelmed with meetings, talks, and other events that are taking time away from extended solo work sessions.
-
 
 _January 1, 2020_
 
