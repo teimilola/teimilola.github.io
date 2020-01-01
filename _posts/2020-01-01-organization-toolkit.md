@@ -12,7 +12,7 @@ I love organizational tools and often try out new applications. These are my cur
 
 ## Things
 
-Things is a gorgeous task tracker for OSX. I use it for the vast majority of my to do items, both personal and professional. When my mental load starts feeling heavy, I love knowing that I can safely offload everything into Things and not have to worry about forgetting anything later. 
+Things is a gorgeous task tracker for OSX. I use it for the vast majority of my to do items, both personal and professional. When my mental load starts feeling heavy, I know that I can safely offload everything into Things and not have to worry about forgetting anything later. 
 
 The only to do items I don't track in Things are specific coding tasks for projects; these fit better into kanban boards, which I use Coda to maintain (see below).
 
