@@ -6,9 +6,7 @@ date:   2020-01-01
 
 # My Current Organizational Toolkit
 
-I love organizational tools and frequently try out new applications. These are my current favorite tools for research and academic work.
-
-I care a lot about both the functional and the visual aspects of the applications I use. Since I spend so much time working, I'd prefer that I spend that time pleasantly, in an environment that was designed thoughtfully and tastefully. This is an entirely personal preference.
+I love organizational tools and often try out new applications. These are my current favorite tools for research and academic work.
 
 <br>
 
@@ -30,7 +28,7 @@ Only available in the Apple ecosystem.
 
 ## Coda
 
-I recently started using Coda as a replacement for Quip, Google Docs, or Evernote for maintaining project notes.  I keep running notes for each project (kanban board to track progress, ongoing writeups of data, figures, hypotheses, and research directions), and these are especially useful for meetings with my advisor and teammates. I highly recommend maintaining these kinds of "lab books" both for presentation and self-organization. 
+I recently started using Coda as a replacement for Quip, Google Docs, or Evernote for maintaining project notes.  I keep running notes for each project (kanban board to track progress, ongoing writeups of data, figures, hypotheses, and research directions), and these are especially useful for meetings with my advisor and teammates. I recommend maintaining these kinds of "lab books" both for presentation and self-organization. 
 
 Coda is a newer app, so I'm a bit hesitant to fully rely on it. What if it disappears six months from now? It hasn't complete replaced Evernote or Google Docs in my workflow, but for the limited scope of project notes, I'm enjoying it so far. It's not 100% perfect, but it ticks more of my boxes than the alternatives.
 
@@ -38,13 +36,13 @@ Coda is a newer app, so I'm a bit hesitant to fully rely on it. What if it disap
 Good UI. Lots of formatting tools. Functional tables. 
 
 ### Cons
-No table of contents for individual notes. No offline app. Some of the tools are very unintuitive (especially table formatting). 
+No table of contents for individual notes. No offline app. Some of the tools are very unintuitive (e.g., table formatting). 
 
 <br>
 
 ## Paperpile
 
-There is no perfect solution to paper management. I used Mendeley for years but it's ugly and owned by Elsevier, and I object to the closed accessibility (you can't transfer your highlights and notes to other apps). I've tried to use Zotero several times but it's just unappealing and unintuitive to me; it feels like a relic from Windows 95 (sorry!).
+There is no perfect solution to paper management. I used Mendeley for years but it's owned by Elsevier, and I object to the closed accessibility (you can't transfer your highlights and notes to other apps). I've tried to use Zotero several times but it's just unappealing and unintuitive to me; it feels like a relic from Windows 95 (sorry!).
 
 Paperpile has been the least bad option for me. The move from Mendeley was quick and easy, Paperpile syncs with Google Drive, all my notes, highlights, and tags are transferrable to other apps, it has a Chrome extension for quickly adding papers to your library, and I'm happy to financially support the active development of an "upstart" paper management system. 
 
@@ -74,7 +72,7 @@ Lack of text formatting tools. Lack of functional tables. Blocked from creating 
 
 ## Pomodoro 
 
-I use the Pomodoro Chrome extension to stay "in the zone" while working. The idea is really simple, and you don't actually need to use an app for this (a timer would probably work just as well). You press the icon to start a work session and are rewarded with a short break after 20 minutes. It keeps me honest about how much time I'm dedicating to a single task. 
+I use the Pomodoro Chrome extension to stay "in the zone" while working. The idea is simple, and you don't actually need to use an app for this (a timer would probably work just as well). You press the icon to start a work session and are rewarded with a short break after 20 minutes. It keeps me honest about how much time I'm dedicating to a single task. 
 
 ### Pros
 Simple. Effective.
@@ -100,7 +98,7 @@ The Chrome extension and mobile app aren't as polished and useful as the ones ma
 
 ## Google Calendar
 
-This one is obvious (no need to list pros and cons) but I wanted to share a small trick. Instead of color coding all the events in my calendar by type (e.g., teaching, meetings, seminars, appointments), I started color coding by urgency (e.g., required, optional, personal). This way, I can see at a glance which events I can skip and how much time I actually have to work on my own tasks. This really helps me prioritize when I'm feeling overwhelmed with meetings, talks, and other events that are taking time away from extended solo work sessions.
+This one is obvious (no need to list pros and cons) but I wanted to share a small trick. Instead of color coding all the events in my calendar by type (e.g., teaching, meetings, seminars, appointments), I started color coding by urgency (e.g., required, optional, personal). This way, I can see at a glance which events I can skip and how much time I actually have to work on my own tasks. This helps me prioritize when I'm feeling overwhelmed with meetings, talks, and other events that are taking time away from extended solo work sessions.
 
 _January 1, 2020_
 
