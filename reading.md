@@ -28,6 +28,8 @@ layout: default
 * [Down Girl](https://www.amazon.com/Down-Girl-Misogyny-Kate-Manne/dp/0190933208) by Kate Manne
 * [Rebecca](https://www.amazon.com/Rebecca-Daphne-Maurier-Dam-2002-07-30/dp/B01JQHUDBI) by Daphne du Maurier
 * [Chéri](https://www.amazon.com/Cheri-Last-Colette/dp/0374528012) by Colette
+* [The Left Hand of Darkness]() by Ursula Leguin
+* [The True Deceiver]() by Tove Jansson
 
 <br>
 
