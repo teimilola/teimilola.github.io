@@ -34,9 +34,11 @@ I recently started using Coda as a replacement for Quip, Google Docs, or Evernot
 
 Coda is a newer app, so I'm a bit hesitant to fully rely on it. What if it disappears six months from now? It hasn't complete replaced Evernote or Google Docs in my workflow, but for the limited scope of project notes, I'm enjoying it so far. It's not 100% perfect, but it ticks more of my boxes than the alternatives.
 
-<font color='green'>Pros:</font> Good UI. Lots of formatting tools. Functional tables. 
+### Pros
+Good UI. Lots of formatting tools. Functional tables. 
 
-**Cons:** No table of contents for individual notes. No offline app. Some of the tools are very unintuitive (especially table formatting). 
+### Cons
+No table of contents for individual notes. No offline app. Some of the tools are very unintuitive (especially table formatting). 
 
 <br>
 
@@ -46,9 +48,11 @@ There is no perfect solution to paper management. I used Mendeley for years but 
 
 Paperpile has been the least bad option for me. The move from Mendeley was quick and easy, Paperpile syncs with Google Drive, all my notes, highlights, and tags are transferrable to other apps, it has a Chrome extension for quickly adding papers to your library, and I'm happy to financially support the active development of an "upstart" paper management system. 
 
-**Pros:** Not owned by Elsevier. Decent UI, a bit clunky but better than the alternatives. 
+### Pros
+Not owned by Elsevier. Decent UI, a bit clunky but better than the alternatives. 
 
-**Cons:** No offline access to papers. Only runs in Chrome. Buggy.
+### Cons
+No offline access to papers. Only runs in Chrome. Buggy.
 
 <br>
 
@@ -60,9 +64,11 @@ The most useful aspect for me is using the combination of web clipper and notes 
 
 All that said, after years of using Evernote, I'm feeling more and more ready to jump to a new note-taking app. Based on what I've read about the company, I have a nervous feeling that they might be about to disappear, and I'm increasingly frustrated by the lack of text formatting tools (e.g. no heading options). I just haven't found a compelling alternative yet.
 
-**Pros:** Tried and true. Simple UI. Web clipper works perfectly. Web, mobile, and OSX apps are all great. Never had any reliability issue over the years. Good record on privacy.
+### Pros
+Tried and true. Simple UI. Web clipper works perfectly. Web, mobile, and OSX apps are all great. Never had any reliability issue over the years. Good record on privacy.
 
-**Cons:** Lack of text formatting tools. Lack of functional tables. Blocked from creating nested notebooks/folders. 
+### Cons
+Lack of text formatting tools. Lack of functional tables. Blocked from creating nested notebooks/folders. 
 
 <br>
 
@@ -70,9 +76,11 @@ All that said, after years of using Evernote, I'm feeling more and more ready to
 
 I use the Pomodoro Chrome extension to stay "in the zone" while working. The idea is really simple, and you don't actually need to use an app for this (a timer would probably work just as well). You press the icon to start a work session and are rewarded with a short break after 20 minutes. It keeps me honest about how much time I'm dedicating to a single task. 
 
-**Pros:** Simple. Effective.
+### Pros
+Simple. Effective.
 
-**Cons:** Notifications are a bit annoying.
+### Cons
+Notifications are a bit annoying.
 
 <br>
 
@@ -82,9 +90,11 @@ Are.na is a Pinterest competitor that advocates for a healthier, "slower" vision
 
 For example, I maintain a [Women in Tech](https://www.are.na/maria-antoniak/women-in-tech-7xspfg15cag) channel with articles and information about sexism in the tech industry. It's a quick and easy way to visually gather and share information.
 
-**Pros:** Ethical mission. Very pretty. Lots of inspiration.
+### Pros
+Ethical mission. Very pretty. Lots of inspiration.
 
-**Cons:** The Chrome extension and mobile app aren't as polished and useful as the ones made by Pinterest.
+### Cons
+The Chrome extension and mobile app aren't as polished and useful as the ones made by Pinterest.
 
 <br>
 
