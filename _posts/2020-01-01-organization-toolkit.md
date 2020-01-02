@@ -60,6 +60,8 @@ No offline access to papers. Only runs in Chrome. Buggy.
 
 ## Evernote
 
+![alt text](https://maria-antoniak.github.io/resources/images/evernote.png "Evernote screenshot")
+
 I've been using Evernote for a very, very long time. I use the web clipper to save articles and bits of information while browsing the web, and I keep notes about talks, projects, course lectures, and miscellaneous personal and professional things. It's wonderful to be able to search and reference notes from years ago.
 
 The most useful aspect for me is using the combination of web clipper and notes to create personalized "textbooks" for concepts that I want to study. For example, I have a "Logistic Regression" notebook with blog posts, PDFs, and my personal notes, collected over years of reading, browsing, attending talks and lectures. It's perfect for refreshing my knowledge of a specific topic.
