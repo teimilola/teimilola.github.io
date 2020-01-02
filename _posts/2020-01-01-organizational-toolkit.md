@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "My Current Organizational Toolkit"
+title:  "My Organizational Toolkit"
 date:   2020-01-01
 ---
 
-# My Current Organizational Toolkit
+# My Organizational Toolkit
 
 Life as a grad student is busy, and I rely heavily on organizational tools to help me survive. I often try out new applications to optimize my workflow, and I enjoy reading about the tools other people use. 
 
