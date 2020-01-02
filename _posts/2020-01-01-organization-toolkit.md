@@ -6,7 +6,7 @@ date:   2020-01-01
 
 # My Current Organizational Toolkit
 
-Life as a grad student is busy, and I rely heavily on organizational tools to help me survive. I often try out new applications in effort to optimize my workflow, and I enjoy reading about the tools other people use. 
+Life as a grad student is busy, and I rely heavily on organizational tools to help me survive. I often try out new applications to optimize my workflow, and I enjoy reading about the tools other people use. 
 
 Below are my current favorite tools for research and academic work. I work primarily in OSX, and I care about both the functional and visual aspects of my work environment. Since I spend so much time working, I prefer to spend that time using thoughtfully designed tools that are a pleasure rather than a pain to use.
 
