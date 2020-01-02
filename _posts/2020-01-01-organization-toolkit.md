@@ -44,11 +44,15 @@ No table of contents for individual notes. No offline app. Some of the tools are
 
 ## Paperpile
 
+![alt text](https://maria-antoniak.github.io/resources/images/paperpile.png "Paperpile screenshot")
+
 There is currently no perfect solution to paper management. I used Mendeley for years but it's owned by Elsevier, and I object to the closed accessibility (you can't transfer your highlights and notes to other apps). I've tried to use Zotero several times but it's just unappealing and unintuitive to me; it feels like a relic from Windows 95 (sorry!).
 
 Paperpile has been the least bad option for me. The move from Mendeley was quick and easy, Paperpile syncs with Google Drive, all my notes, highlights, and tags are transferrable to other apps, it has a Chrome extension for quickly adding papers to your library, and I'm happy to financially support the active development of an "upstart" paper management system. 
 
 While I use Paperpile for management of the paper PDFs, I use Google Sheets to organize references for specific projects. For each new project, I create a Google Sheet where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
+
+![alt text](https://maria-antoniak.github.io/resources/images/references.png "References screenshot")
 
 ### Pros
 Not owned by Elsevier. Decent UI, a bit clunky but better than the alternatives. 
