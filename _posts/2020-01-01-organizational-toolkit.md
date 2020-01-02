@@ -58,7 +58,7 @@ While I use Paperpile for management of the paper PDFs, I use Google Sheets to o
 
 ![alt text](https://maria-antoniak.github.io/resources/images/references.png "References screenshot")
 
-Again, this system isn't perfect, and I'm going to keep experimenting and looking for a better alternative. But for now, this is working.
+Again, this system isn't perfect, and I'm going to keep experimenting and looking for a better solution. But for now, this is working.
 
 ### Pros
 Not owned by Elsevier. Decent UI, a bit clunky but better than the alternatives. 
