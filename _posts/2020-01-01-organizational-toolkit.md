@@ -6,7 +6,7 @@ date:   2020-01-01
 
 # My Organizational Toolkit
 
-If you're like me, New Year's comes with an impulse to re-organize everything. Life as a grad student is busy (teaching, meetings, mentoring, research, internships, etc.), and I rely heavily on organizational tools to help me survive. I enjoy trying out new applications to optimize my workflow and reading about what other people use. Below are my current, personal favorite tools for research and academic work!
+If you're like me, New Year's comes with an impulse to re-organize everything. Life as a grad student is busy (teaching, meetings, mentoring, research, internships, etc.), and I rely heavily on organizational tools to help me survive. I enjoy trying out new applications to optimize my workflow and reading about what other people use. Below are my current, personal favorite tools for keeping track of my research and academic work!
 
 <br>
 
