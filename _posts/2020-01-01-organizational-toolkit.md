@@ -106,7 +106,7 @@ Are.na is a Pinterest competitor that advocates for a healthier, "slower" vision
 
 For example, I maintain a [Women in Tech](https://www.are.na/maria-antoniak/women-in-tech-7xspfg15cag) channel with articles and information about sexism in the tech industry. It's a quick and easy way to visually gather and share information.
 
-I still use Pinterest for some things (e.g., following certain influencers), but I mostly prefer Are.na.
+I still use Pinterest for some things (e.g., following certain influencers), but I mostly prefer Are.na's aesthetic, functionality, and mission.
 
 ### Pros
 Ethical mission. Very pretty. Lots of inspiration.
