@@ -14,6 +14,8 @@ Below are my current favorite tools for research and academic work. I work prima
 
 ## Things
 
+![alt text](https://maria-antoniak.github.io/resources/images/things.png "Things screenshot")
+
 Things is a gorgeous task tracker for OSX. I use it for the vast majority of my to do items, both personal and professional. When my mental load starts feeling heavy, I know that I can safely offload everything into Things and not have to worry about forgetting anything later. 
 
 The only to do items I don't track in Things are specific coding tasks for projects; these fit better into kanban boards, which I use Coda to maintain (see below).
@@ -29,6 +31,8 @@ Only available in the Apple ecosystem.
 <br>
 
 ## Coda
+
+![alt text](https://maria-antoniak.github.io/resources/images/coda.png "Coda screenshot")
 
 I recently started using Coda as a replacement for Quip, Google Docs, or Evernote for maintaining project notes.  I keep running notes for each project (kanban board to track progress, ongoing writeups of data, figures, hypotheses, and research directions), and these are especially useful for meetings with my advisor and teammates. I recommend maintaining these kinds of "lab books" both for presentation and self-organization. 
 
