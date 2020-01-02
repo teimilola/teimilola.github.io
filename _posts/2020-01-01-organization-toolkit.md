@@ -6,7 +6,9 @@ date:   2020-01-01
 
 # My Current Organizational Toolkit
 
-I love organizational tools and often try out new applications. These are my current favorite tools for research and academic work.
+Life as a grad student is busy, and I rely heavily on organizational tools to help me survive. I often try out new applications in effort to optimize my workflow, and I enjoy reading about the tools other people use. 
+
+Below are my current favorite tools for research and academic work. I work primarily in OSX, and I care about both the functional and visual aspects of my work environment. Since I spend so much time working, I prefer to spend that time using thoughtfully designed tools that are a pleasure rather than a pain to use.
 
 <br>
 
@@ -42,9 +44,11 @@ No table of contents for individual notes. No offline app. Some of the tools are
 
 ## Paperpile
 
-There is no perfect solution to paper management. I used Mendeley for years but it's owned by Elsevier, and I object to the closed accessibility (you can't transfer your highlights and notes to other apps). I've tried to use Zotero several times but it's just unappealing and unintuitive to me; it feels like a relic from Windows 95 (sorry!).
+There is currently no perfect solution to paper management. I used Mendeley for years but it's owned by Elsevier, and I object to the closed accessibility (you can't transfer your highlights and notes to other apps). I've tried to use Zotero several times but it's just unappealing and unintuitive to me; it feels like a relic from Windows 95 (sorry!).
 
 Paperpile has been the least bad option for me. The move from Mendeley was quick and easy, Paperpile syncs with Google Drive, all my notes, highlights, and tags are transferrable to other apps, it has a Chrome extension for quickly adding papers to your library, and I'm happy to financially support the active development of an "upstart" paper management system. 
+
+While I use Paperpile for management of the paper PDFs, I use Google Sheets to organize references for specific projects. For each new project, I create a Google Sheet where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
 
 ### Pros
 Not owned by Elsevier. Decent UI, a bit clunky but better than the alternatives. 
