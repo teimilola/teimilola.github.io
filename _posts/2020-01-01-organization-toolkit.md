@@ -86,7 +86,9 @@ Lack of text formatting tools. Lack of functional tables. Blocked from creating 
 
 ## Pomodoro 
 
-I use the Pomodoro Chrome extension to stay "in the zone" while working. The idea is simple, and you don't actually need to use an app for this (a timer would probably work just as well). You press the icon to start a work session and are rewarded with a short break after 20 minutes. It keeps me honest about how much time I'm dedicating to a single task. 
+![alt text](https://maria-antoniak.github.io/resources/images/pomodoro.png "Pomodoro screenshot")
+
+I use the Marinara: Pomodoro Chrome extension to stay "in the zone" while working. The idea is simple, and you don't actually need to use an app for this (a timer would probably work just as well). You press the icon to start a work session and are rewarded with a short break after 20 minutes. It keeps me honest about how much time I'm dedicating to a single task. 
 
 ### Pros
 Simple. Effective.
