@@ -52,7 +52,7 @@ There is currently no perfect solution to paper management. I used Mendeley for 
 
 Paperpile has been the least bad option for me. The move from Mendeley was quick and easy, Paperpile syncs with Google Drive, all my notes, highlights, and tags are transferrable to other apps, it has a Chrome extension for quickly adding papers to your library, and I'm happy to financially support the active development of an "upstart" paper management system. 
 
-While I use Paperpile for management of the paper PDFs, I use Google Sheets to organize references for specific projects. For each new project, I create a Google Sheet where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
+While I use Paperpile for management of PDFs, I use Google Sheets to organize references for specific projects. For each new project, I create a Google Sheet where each row is a relevant paper and the columns include the title, authors, publication year, publication venue, topic, subtopic, and notes. 
 
 ![alt text](https://maria-antoniak.github.io/resources/images/references.png "References screenshot")
 
