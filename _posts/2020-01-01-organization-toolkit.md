@@ -92,6 +92,8 @@ Are.na is a Pinterest competitor that advocates for a healthier, "slower" vision
 
 For example, I maintain a [Women in Tech](https://www.are.na/maria-antoniak/women-in-tech-7xspfg15cag) channel with articles and information about sexism in the tech industry. It's a quick and easy way to visually gather and share information.
 
+I still use Pinterest for some things (e.g., following certain influencers), but I mostly prefer Are.na.
+
 ### Pros
 Ethical mission. Very pretty. Lots of inspiration.
 
@@ -103,6 +105,8 @@ The Chrome extension and mobile app aren't as polished and useful as the ones ma
 ## Google Calendar
 
 This one is obvious (no need to list pros and cons) but I wanted to share a small trick. Instead of color coding all the events in my calendar by type (e.g., teaching, meetings, seminars, appointments), I started color coding by urgency (e.g., required, optional, personal). This way, I can see at a glance which events I can skip and how much time I actually have to work on my own tasks. This helps me prioritize when I'm feeling overwhelmed with meetings, talks, and other events that are taking time away from extended solo work sessions.
+
+<br>
 
 _January 1, 2020_
 
