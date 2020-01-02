@@ -114,11 +114,11 @@ Ethical mission. Very pretty. Lots of inspiration.
 ### Cons
 The Chrome extension and mobile app aren't as polished and useful as the ones made by Pinterest.
 
-<br>
+<!-- <br>
 
 ## Google Calendar
 
-This one is obvious (no need to list pros and cons) but I wanted to share a small trick. Instead of color coding all the events in my calendar by type (e.g., teaching, meetings, seminars, appointments), I started color coding by urgency (e.g., required, optional, personal). This way, I can see at a glance which events I can skip and how much time I actually have to work on my own tasks. This helps me prioritize when I'm feeling overwhelmed with meetings, talks, and other events that are taking time away from extended solo work sessions.
+This one is obvious (no need to list pros and cons) but I wanted to share a small trick. Instead of color coding all the events in my calendar by type (e.g., teaching, meetings, seminars, appointments), I started color coding by urgency (e.g., required, optional, personal). This way, I can see at a glance which events I can skip and how much time I actually have to work on my own tasks. This helps me prioritize when I'm feeling overwhelmed with meetings, talks, and other events that are taking time away from extended solo work sessions. -->
 
 <br>
 
