@@ -90,6 +90,8 @@ Notifications are a bit annoying.
 
 ## Are.na
 
+![alt text](https://maria-antoniak.github.io/resources/images/arena.png "Are.na screenshot")
+
 Are.na is a Pinterest competitor that advocates for a healthier, "slower" vision of the internet. I've used Pinterest for years, but Are.na has a much lovelier, more minimal UI and is subscription-based instead of using advertising and your data for revenue. There are no ads, likes, or recommendations. I just love everything about this company.
 
 For example, I maintain a [Women in Tech](https://www.are.na/maria-antoniak/women-in-tech-7xspfg15cag) channel with articles and information about sexism in the tech industry. It's a quick and easy way to visually gather and share information.
