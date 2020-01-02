@@ -74,7 +74,7 @@ I've been using Evernote for a very, very long time. I use the web clipper to sa
 
 The most useful aspect for me is using the combination of web clipper and notes to create personalized "textbooks" for concepts that I want to study. For example, I have a "Logistic Regression" notebook with blog posts, PDFs, and my personal notes, collected over years of reading, browsing, attending talks and lectures. It's perfect for refreshing my knowledge of a specific topic.
 
-All that said, after years of using Evernote, I'm feeling more and more ready to jump to a new note-taking app. Based on what I've read about the company, I have a nervous feeling that they might be about to disappear, and I'm increasingly frustrated by the lack of text formatting tools (e.g., no heading options). I just haven't found a compelling alternative yet.
+All that said, after years of using Evernote, I'm feeling more and more ready to jump to a new note-taking app. Based on what I've read about the company, I have a nervous feeling that they might be about to disappear, and I'm increasingly frustrated by the lack of text formatting tools (e.g., no heading options). But I haven't found a compelling alternative, so I probably won't be leaving any time soon.
 
 ### Pros
 Tried and true. Simple UI. Web clipper works perfectly. Web, mobile, and OSX apps are all great. Never had any reliability issue over the years. Good record on privacy.
