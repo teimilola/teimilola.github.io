@@ -12,3 +12,5 @@ tracking_id: #
 sass:
     style: compressed
     sass_dir: _sass
+
+google_analytics: UA—156013933-1
