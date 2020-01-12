@@ -7,10 +7,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-tracking_id: #
+tracking_id: UA-156013933-1
 
 sass:
     style: compressed
     sass_dir: _sass
-
-google_analytics: UA—156013933-1
