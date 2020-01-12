@@ -74,11 +74,13 @@ Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/
   
 Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
 
-<!-- <br>
+<br>
 
 ## Other Things
 
-* I'm the current Treasurer (and former Social Chair) for Graduate Women in Science at Cornell. -->
+* I'm the current President for [Grads for Gender Inclusion in Computing]() at Cornell. 
+* I'm the current Treasurer (and former Social Chair) for [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
+* [books books books](https://maria-antoniak.github.io/reading)
 
 
 <br><br>
