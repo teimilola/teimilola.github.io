@@ -78,8 +78,8 @@ Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.info
 
 ## Other Things
 
-* I'm the current President for [Grads for Gender Inclusion in Computing]() at Cornell. 
-* I'm the current Treasurer (and former Social Chair) for [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
+* I'm the current President of [Grads for Gender Inclusion in Computing]() at Cornell. 
+* I'm the current Treasurer (and former Social Chair) of [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
 * [books books books](https://maria-antoniak.github.io/reading)
 
 
