@@ -5,11 +5,11 @@ layout: default
 <br>
 
 **Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score.**  
-*Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno.* 
+*Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno.*  
 Frontiers in Neuroscience, 2019.  
 
 **Narrative Paths and Negotiation of Power in Birth Stories.**  
-*Maria Antoniak, David Mimno, and Karen Levy.* 
+*Maria Antoniak, David Mimno, and Karen Levy.*  
 Proceedings of the ACM on Human-Computer Interaction (CSCW), 2019.  
 [[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)]  
 
