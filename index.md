@@ -20,7 +20,7 @@ My research is in natural language processing and machine learning. I'm interest
 
 ## Present
 
-<img class="profile-picture" src="me.jpg">
+<img class="profile-picture" src="me.png">
 
 * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
