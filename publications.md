@@ -12,7 +12,7 @@ Frontiers in Neuroscience, 2019.
 **Narrative Paths and Negotiation of Power in Birth Stories.**  
 *Maria Antoniak, David Mimno, and Karen Levy.*  
 Proceedings of the ACM on Human-Computer Interaction (CSCW), 2019.  
-[[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)]  
+[[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2019_11_12_cscw_birth_stories_presentation.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)]  
 
 **Evaluating the Stability of Embedding-based Word Similarities.**  
 *Maria Antoniak and David Mimno.*  

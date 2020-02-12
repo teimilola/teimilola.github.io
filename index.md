@@ -53,7 +53,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
-January 2020: Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers of Neuroscience*
+January 2020: Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers in Neuroscience*
 
 November 2019: Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas
 
