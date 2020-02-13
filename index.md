@@ -22,7 +22,9 @@ My research is in natural language processing and machine learning. I'm interest
 
 <img class="profile-picture" src="me.png">
 
-I'm a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, advised by [David Mimno](https://mimno.infosci.cornell.edu/). My research explores unsupervised models for representing complex subjective experiences communicated through text. I'm interested in re-evaluating traditional NLP models for socially-specific datasets and in applying these models to the study of stories, self-portrayal, and sensemaking in literary and healthcare communities.
+I'm a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have an MS in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked across the industry, including as a data scientist at the startup [Maana](https://www.maana.io/) and as a research intern at [Facebook Core Data Science](https://research.fb.com/core-data-science/), [Microsoft Research](https://www.microsoft.com/en-us/research/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
+
+My research explores unsupervised models for representing complex subjective experiences communicated through text. I'm interested in re-evaluating traditional NLP models for socially-specific datasets and in applying these models to the study of stories, self-portrayal, and sensemaking in literary and healthcare communities.
 
 <!-- * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
@@ -36,7 +38,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 <br>
 
-## Education
+<!-- ## Education
 
 * MS in [Computational Linguistics](https://www.compling.uw.edu/), University of Washington  
 * BA in [Program of Liberal Studies](https://pls.nd.edu/), University of Notre Dame
@@ -50,7 +52,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 * Data Scientist, [Maana](https://www.maana.io/)
 * Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
 
-<br>
+<br> -->
 
 ## News
 
