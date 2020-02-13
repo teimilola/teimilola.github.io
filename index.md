@@ -22,7 +22,7 @@ My research is in natural language processing and machine learning. I'm interest
 
 <img class="profile-picture" src="me.png">
 
-I'm a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, with a minor in [Computer Science](https://www.cs.cornell.edu/), advised by [David Mimno](https://mimno.infosci.cornell.edu/). My research explores unsupervised models for representing complex subjective experiences communicated through text. I'm interested in re-evaluating traditional NLP models for use on socially-specific datasets and in applying these models to the study of stories, self-portrayal, and sensemaking in literary and healthcare communities.
+I'm a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, advised by [David Mimno](https://mimno.infosci.cornell.edu/). My research explores unsupervised models for representing complex subjective experiences communicated through text. I'm interested in re-evaluating traditional NLP models for socially-specific datasets and in applying these models to the study of stories, self-portrayal, and sensemaking in literary and healthcare communities.
 
 <!-- * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
