@@ -18,14 +18,21 @@ My research is in natural language processing and machine learning. I'm interest
 
 <br> -->
 
-## Present
+## Hello!
 
 <img class="profile-picture" src="me.png">
 
-* PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
+I'm a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, with a minor in [Computer Science](https://www.cs.cornell.edu/), advised by [David Mimno](https://mimno.infosci.cornell.edu/). My research explores unsupervised models for representing complex subjective experiences communicated through text. I'm interested in re-evaluating traditional NLP models for use on socially-specific datasets and in applying these models to the study of stories, self-portrayal, and sensemaking in literary and healthcare communities.
+
+<!-- * PhD Student in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
-* Minor in [Computer Science](https://www.cs.cornell.edu/)
-<!-- * Interests: NLP, ML, unsupervised methods, digital humanities, computational social science -->
+* Minor in [Computer Science](https://www.cs.cornell.edu/) -->
+
+<br>
+
+## Research Interests
+
+Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
 
 <br>
 
@@ -45,12 +52,6 @@ My research is in natural language processing and machine learning. I'm interest
 
 <br>
 
-## Research Interests
-
-Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
-
-<br>
-
 ## News
 
 January 2020: Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers in Neuroscience*
@@ -62,7 +63,7 @@ October 2019: Attending NovelTM in Banff, Canada
 
 <br>
 
-## Teaching
+<!-- ## Teaching
 
 Fall 2019: TA for INFO 3350/6350: [Text Mining for History & Literature](https://mimno.infosci.cornell.edu/info3350/)
 
@@ -70,7 +71,7 @@ Spring 2019: TA for [INFO 3300: Data-driven Web Applications](http://jeffrz.com/
   
 Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.infosci.cornell.edu/info3300/)
 
-<br>
+<br> -->
 
 ## Other Things
 
