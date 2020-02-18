@@ -56,6 +56,8 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
+July 2020: I'll speaking on two panels at [DH 2020](https://dh2020.adho.org/): *Replication and Computational Literary Studies* and *Cultural Analytics and the Book Review: Models, Methods, and Corpora*
+
 January 2020: Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers in Neuroscience*
 
 November 2019: Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas
