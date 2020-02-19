@@ -56,7 +56,7 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 
 ## News
 
-July 2020: I'll speaking on two panels at [DH 2020](https://dh2020.adho.org/): *Replication and Computational Literary Studies* and *Cultural Analytics and the Book Review: Models, Methods, and Corpora*
+July 2020: I'll be speaking on two panels at [DH 2020](https://dh2020.adho.org/): *Replication and Computational Literary Studies* and *Cultural Analytics and the Book Review: Models, Methods, and Corpora*
 
 June-August 2020: I'll be interning at Microsoft Research Montreal with the [FATE](https://www.microsoft.com/en-us/research/group/fate/) team
 
