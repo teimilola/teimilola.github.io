@@ -4,6 +4,8 @@ title:  "A Computational Reading of a Birth Stories Community"
 date:   2019-11-04
 ---
 
+<br><br>
+
 # A Computational Reading of a Birth Stories Community
 
 A few years ago, some personal friends of mine shared their birth stories online. Their stories were both surprising and inspiring to me. One of those stories described a traumatic birth, and I was shocked at both the story itself and the courage of my friend in sharing these details. This experience got me started reading birth stories online, and I’ve found that each story is unique and full of strength, emotions, and decision-making.

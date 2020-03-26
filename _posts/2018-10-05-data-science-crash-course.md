@@ -4,6 +4,8 @@ title:  "Data Science Crash Course: Interview Prep"
 date:   2018-11-19
 ---
 
+<br><br>
+
 # Data Science Crash Course: Interview Prep
 
 Internship application season is coming up! If you're studying for interviews, it can be hard to know where to start, so I've created a roundup of my favorite blog posts, course slides, Quora and StackExchange answers, and miscellaneous other resources that cover the basics of most machine learning and data science interviews.
