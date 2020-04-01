@@ -22,6 +22,7 @@ Transactions of the Association for Computational Linguistics (TACL), 2018.
 **Natural Language Processing Techniques on Oil and Gas Drilling Data.**  
 *Maria Antoniak, Jeff Dagliesh, and Justin Lo.*  
 SPE Intelligent Energy Conference and Exhibition, 2016.  
+[[PDF](https://maria-antoniak.github.io/resources/2016_spe_oil_and_gas.pdf)]
 
 **Leveraging Paraphrase Labels to Extract Synonyms from Twitter.**  
 *Maria Antoniak, Eric Bell, and Fei Xia.*  
