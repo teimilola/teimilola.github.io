@@ -6,10 +6,12 @@ layout: default
 
 ## 2020
 
-* [Orlando]() by Virginia Woolf
-* [City of Lions]() by Jozef Wittlin
-* [Bleak House]() by Charles Dickens
-* [The Unicorn]() by Iris Murdoch  
+* [Orlando](https://bookshop.org/books/orlando-a-biography/9780156701600) by Virginia Woolf
+* [City of Lions](https://bookshop.org/books/city-of-lions/9781782271178) by Jozef Wittlin
+* [Bleak House](https://bookshop.org/books/bleak-house-9781853260827/9780141439723) by Charles Dickens
+* [The Decameron](https://bookshop.org/books/the-decameron/9780393350265) by Giovanni Boccaccio
+* [The Unicorn](https://bookshop.org/books/the-unicorn-9780140024760/9780140024760) by Iris Murdoch  
+* [We Have Always Lived in the Castle](https://bookshop.org/books/we-have-always-lived-in-the-castle-penguin-orange-collection/9780143129547) by Shirley Jackson
 
 <br>
 
@@ -37,8 +39,8 @@ layout: default
 * [Down Girl](https://www.amazon.com/Down-Girl-Misogyny-Kate-Manne/dp/0190933208) by Kate Manne
 * [Rebecca](https://www.amazon.com/Rebecca-Daphne-Maurier-Dam-2002-07-30/dp/B01JQHUDBI) by Daphne du Maurier
 * [Chéri](https://www.amazon.com/Cheri-Last-Colette/dp/0374528012) by Colette
-* [The Left Hand of Darkness]() by Ursula Leguin
-* [The True Deceiver]() by Tove Jansson
+* [The Left Hand of Darkness](https://bookshop.org/books/the-left-hand-of-darkness/9780441478125) by Ursula Leguin
+* [The True Deceiver](https://bookshop.org/books/the-true-deceiver/9781590173299) by Tove Jansson
 
 <br>
 
