@@ -145,5 +145,10 @@ hr {
     }
 }
 
+table, th, td {
+    border: 0px;
+    background-color: white;
+  }
+
 @import "typography";
 @import "tables";
