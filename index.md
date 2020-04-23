@@ -70,6 +70,7 @@ October 2019: Attending NovelTM in Banff, Canada
 | Nov 2019 | Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas | 
 | Oct 2019 | Attending NovelTM in Banff, Canada | 
 
+<!-- 
 <table style="width:100%">
   <tr>
     <td>Jan 2020</td>
@@ -83,7 +84,7 @@ October 2019: Attending NovelTM in Banff, Canada
     <td>Oct 2019</td>
     <td>Attending NovelTM in Banff, Canada</td>
   </tr>
-</table>
+</table> -->
 
 
 <br>
