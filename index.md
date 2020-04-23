@@ -75,12 +75,12 @@ October 2019: Attending NovelTM in Banff, Canada -->
 
 <table style="width:100%">
   <tr>
-    <td width="20%">Jan 2020</td>
-    <td>Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers in Neuroscience*</td>
+    <td width="15%">Jan 2020</td>
+    <td>Our <a href="https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf">paper</a> on imagined examples of painful experiences has been published by <i>Frontiers in Neuroscience</i>
   </tr>
   <tr>
     <td>Nov 2019</td>
-    <td>Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas</td>
+    <td>Presenting <a href="https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf">Narrative Paths and Negotiations of Power in Birth Stories</a> at CSCW in Austin, Texas</td>
   </tr>
   <tr>
     <td>Oct 2019</td>
