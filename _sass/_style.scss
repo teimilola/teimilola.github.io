@@ -11,7 +11,6 @@ html {
 }
 body {
     margin: 0;
-    // font-family: "Fira Sans";
     font-family: "Lato";
     font-weight: 300;
     height: 90%;
@@ -32,6 +31,35 @@ hr {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
+
+// @font-face {
+//     font-family: "Lato";
+//     src: url("https://fonts.googleapis.com/css?family=Lato") format("truetype");
+//     font-weight: normal;
+//     font-style: normal;
+//   }
+  
+//   @font-face {
+//     font-family: "Lato";
+//     src: url("https://fonts.googleapis.com/css?family=Lato") format("truetype");
+//     font-weight: normal;
+//     font-style: italic;
+//   }
+  
+//   @font-face {
+//     font-family: "Lato";
+//     src: url("https://fonts.googleapis.com/css?family=Lato") format("truetype");
+//     font-weight: bold;
+//     font-style: normal;
+//   }
+  
+//   @font-face {
+//     font-family: "DroidSerif";
+//     src: url("DroidSerif-BoldItalic-webfont.ttf") format("truetype");
+//     font-weight: bold;
+//     font-style: italic;
+//   }
+
 
 /*
  * Navbar
