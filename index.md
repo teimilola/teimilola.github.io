@@ -66,16 +66,16 @@ November 2019: Presenting *[Narrative Paths and Negotiations of Power in Birth S
 
 October 2019: Attending NovelTM in Banff, Canada -->
 
-| Jul 2020 | I'll be speaking on two panels at [DH 2020](https://dh2020.adho.org/): *Replication and Computational Literary Studies* and *Cultural Analytics and the Book Review: Models, Methods, and Corpora* |
+<!-- | Jul 2020 | I'll be speaking on two panels at [DH 2020](https://dh2020.adho.org/): *Replication and Computational Literary Studies* and *Cultural Analytics and the Book Review: Models, Methods, and Corpora* |
 | Jun 2020 | I'll be interning at Microsoft Research Montreal with the [FATE](https://www.microsoft.com/en-us/research/group/fate/) team |
 | Jan 2020 | Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers in Neuroscience* | 
 | Nov 2019 | Presenting *[Narrative Paths and Negotiations of Power in Birth Stories](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)* at CSCW in Austin, Texas | 
-| Oct 2019 | Attending NovelTM in Banff, Canada | 
+| Oct 2019 | Attending NovelTM in Banff, Canada |  -->
 
-<!-- 
+
 <table style="width:100%">
   <tr>
-    <td>Jan 2020</td>
+    <td width="20%">Jan 2020</td>
     <td>Our [paper](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) on imagined examples of painful experiences has been published by *Frontiers in Neuroscience*</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ October 2019: Attending NovelTM in Banff, Canada -->
     <td>Oct 2019</td>
     <td>Attending NovelTM in Banff, Canada</td>
   </tr>
-</table> -->
+</table>
 
 
 <br>
