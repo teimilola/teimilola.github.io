@@ -149,6 +149,8 @@ table, th, td {
     border-collapse: collapse;
     border: none;
     background-color: white;
+    text-align: left;
+    vertical-align: top;
   }
 
 @import "typography";

@@ -80,7 +80,7 @@ October 2019: Attending NovelTM in Banff, Canada -->
   </tr>
   <tr>
     <td width="15%">Jun 2020</td>
-    <td>>I'll be interning at Microsoft Research Montreal with the <a href="https://www.microsoft.com/en-us/research/group/fate/">FATE</a> team</td>
+    <td>I'll be interning at Microsoft Research Montreal with the <a href="https://www.microsoft.com/en-us/research/group/fate/">FATE</a> team</td>
   </tr>
   <tr>
     <td width="15%">Jan 2020</td>
