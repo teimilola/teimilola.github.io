@@ -5,7 +5,7 @@ layout: default
 <br>
 
 **Imagined examples of painful experiences provided by chronic low back pain patients and attributed a pain numerical rating score**  
-Robert Stewart Griffin, **Maria Antoniak**, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno.  
+Robert Stewart Griffin, Maria Antoniak, Phuong Dinh Mac, Vladimir Kramskiy, Seth Waldman, David Mimno.  
 Frontiers in Neuroscience, 2019.  
 [[PDF](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf)]
 
