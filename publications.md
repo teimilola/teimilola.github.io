@@ -15,8 +15,8 @@ Proceedings of the ACM on Human-Computer Interaction (CSCW), 2019.
 [[PDF](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2019_11_12_cscw_birth_stories_presentation.pdf)]  [[Blog](https://maria-antoniak.github.io/2019/11/04/computational-reading-birth-stories.html)] [[Press](http://news.cornell.edu/stories/2019/11/online-birth-stories-reveal-power-imbalances)]  
 
 **Evaluating the Stability of Embedding-based Word Similarities**  
-**Maria Antoniak** and David Mimno.
-Transactions of the Association for Computational Linguistics (TACL), 2018.   
+**Maria Antoniak** and David Mimno.  
+Transactions of the Association for Computational Linguistics (TACL), 2018.  
 [[PDF](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2018_naacl_presentation_with_notes.pdf)] [[Video](https://vimeo.com/277670053)]  
 
 **Natural Language Processing Techniques on Oil and Gas Drilling Data**  
