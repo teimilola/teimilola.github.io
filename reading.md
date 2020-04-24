@@ -11,7 +11,9 @@ layout: default
 * [Bleak House](https://bookshop.org/books/bleak-house-9781853260827/9780141439723) by Charles Dickens
 * [The Decameron](https://bookshop.org/books/the-decameron/9780393350265) by Giovanni Boccaccio
 * [The Unicorn](https://bookshop.org/books/the-unicorn-9780140024760/9780140024760) by Iris Murdoch  
-* [We Have Always Lived in the Castle](https://bookshop.org/books/we-have-always-lived-in-the-castle-penguin-orange-collection/9780143129547) by Shirley Jackson
+* [We Have Always Lived in the Castle](https://bookshop.org/books/we-have-always-lived-in-the-castle-penguin-orange-collection/9780143129547) by Shirley Jackson  
+* [Data Feminism](https://bookshop.org/books/data-feminism/9780262044004) by Catherine D'Ignazio and Lauren F. Klein  
+* [Elizabeth I: A Study in Insecurity](https://bookshop.org/books/elizabeth-i-penguin-monarchs-a-study-in-insecurity/9780141980881) by Helen Castor  
 
 <br>
 
