@@ -14,6 +14,7 @@ layout: default
 * [We Have Always Lived in the Castle](https://bookshop.org/books/we-have-always-lived-in-the-castle-penguin-orange-collection/9780143129547) by Shirley Jackson  
 * [Data Feminism](https://bookshop.org/books/data-feminism/9780262044004) by Catherine D'Ignazio and Lauren F. Klein  
 * [Elizabeth I: A Study in Insecurity](https://bookshop.org/books/elizabeth-i-penguin-monarchs-a-study-in-insecurity/9780141980881) by Helen Castor  
+* [War in Val d'Orcia](https://bookshop.org/books/war-in-val-d-orcia-an-italian-war-diary-1943-1944/9781681372662) by Iris Origo
 
 <br>
 
