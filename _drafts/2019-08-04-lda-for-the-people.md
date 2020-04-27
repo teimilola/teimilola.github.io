@@ -106,6 +106,9 @@ Compare to BERT, LSA, embeddings, clustering
 
 Setting parameters, choosing number of topics, evaluation
 
+- Lots of duplicate documents can result in topics that look very similar to each other.
+- To make your topics more interpretable, you can remove stopwords either before or after training (ref Xanda)
+
 ## Favorite Resources
 
 * [Introduction to Probabilistic Topic Models](https://www.semanticscholar.org/paper/Introduction-to-Probabilistic-Topic-Models-Blei/5f1038ad42ed8a4428e395c96d57f83d201ef3b3) by David Blei + [slides](https://pdfs.semanticscholar.org/01f3/290d6f3dee5978a53d9d2362f44daebc4008.pdf)
