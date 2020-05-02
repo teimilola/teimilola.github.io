@@ -17,7 +17,7 @@ CSCW (2019)
 **Evaluating the Stability of Embedding-based Word Similarities**  
 Maria Antoniak and David Mimno  
 TACL (2018)  
-[[PDF](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2018_naacl_presentation_with_notes.pdf)] [[Video](https://vimeo.com/277670053)]  
+[[PDF](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf)] [[Slides](https://maria-antoniak.github.io/resources/2018_naacl_presentation_with_notes.pdf)] [[Video](https://vimeo.com/277670053)] [[Code](https://github.com/maria-antoniak/word-embedding-stability)]  
 
 **Natural Language Processing Techniques on Oil and Gas Drilling Data**  
 Maria Antoniak, Jeff Dagliesh, and Justin Lo  
@@ -31,4 +31,4 @@ Proceedings of the Florida Artificial Intelligence Research Society Conference (
 
 
 
-<br>
+<br><br>
