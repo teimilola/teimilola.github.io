@@ -18,21 +18,21 @@ My research is in natural language processing and machine learning. I'm interest
 
 <br> -->
 
-## Present
+## About
 
 <img class="profile-picture" src="me.png">
 
-<!-- I'm a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have an master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
+I am a researcher and data scientist working in natural language processing. I am interested in how people express their subjective experiences through text, especially in the contexts of healthcare and the humanities. I use unsupervised machine learning methods and re-explore the evaluation of these methods when applied to small, brittle datasets. My past work has explored [how people communicate their [pain levels]() to physicians, how postpartum people frame their [birth experiences](), and how the use of word embedding models require additional [stability tests]() when used to measure biases.
 
-My research explores unsupervised models for representing complex subjective experiences communicated through text. I'm interested in re-evaluating traditional NLP models for socially-specific datasets and in applying these models to the study of stories, self-portrayal, and sensemaking in literary and healthcare communities. -->
+I am currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
 
-* PhD Candidate in [Information Science](http://infosci.cornell.edu/), Cornell University
+<!-- * PhD Candidate in [Information Science](http://infosci.cornell.edu/), Cornell University
 * Advised by [David Mimno](https://mimno.infosci.cornell.edu/)  
-* Minor in [Computer Science](https://www.cs.cornell.edu/)
+* Minor in [Computer Science](https://www.cs.cornell.edu/) -->
 
-<br>
+<!-- <br> -->
 
-## Research Interests
+<!-- ## Research Interests
 
 Natural language processing, unsupervised machine learning, digital humanities, healthcare, computational social science.
 
@@ -50,9 +50,9 @@ Natural language processing, unsupervised machine learning, digital humanities, 
 * Intern, [Facebook Core Data Science](https://research.fb.com/core-data-science/)  
 * Intern, [Microsoft Research](https://www.microsoft.com/en-us/research/)
 * Data Scientist, [Maana](https://www.maana.io/)
-* Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/)
+* Intern, [Pacific Northwest National Laboratory](https://www.pnl.gov/) -->
 
-<br>
+<br> 
 
 ## News
 
@@ -96,6 +96,7 @@ Spring 2017: TA for [INFO 3300: Data-driven Web Applications](https://mimno.info
 
 * I'm the current President of [Grads for Gender Inclusion in Computing](https://gsgic.org/) at Cornell. 
 * I'm the current Treasurer (and former Social Chair) of [Graduate Women in Science](https://gwiscornell.wordpress.com/) at Cornell.
+* In undergrad, I studied in the [Program of Liberal Studies](https://pls.nd.edu/), a reading-oriented set of tutorials and seminars, at the University of Notre Dame. I'm always happy to talk to students who are interested in transitioning from the humanities to technology.
 * [books books books](https://maria-antoniak.github.io/reading)
 
 
