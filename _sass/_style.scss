@@ -19,8 +19,9 @@ body {
 //     font-weight: 700;
 // }
 a {
-    text-decoration: bold;
+    text-decoration: none;
     color: $accent;
+    font-weight: bold;
 }
 a:hover {
     text-decoration: underline;
