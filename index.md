@@ -24,7 +24,7 @@ My research is in natural language processing and machine learning. I'm interest
 
 I am a researcher and data scientist working in natural language processing. I am interested in modeling how people express their subjective experiences through text, especially in the contexts of healthcare and the humanities, and often in the setting of online communities. I rely on unsupervised machine learning methods, and I re-explore the evaluation of these methods when applied to small, brittle datasets. 
 
-My past work has explored how people communicate their [pain levels]() to physicians, how postpartum people frame their [birth experiences](), and how the use of word embedding models require additional [stability tests]() when used to measure biases.
+My past work has examined how people communicate their [pain levels]() to physicians, how postpartum people frame their [birth experiences](), and how the use of word embedding models require additional [stability tests]() when used to measure biases.
 
 I am currently a PhD candidate in [Information Science](http://infosci.cornell.edu/) at Cornell University, where I'm advised by [David Mimno](https://mimno.infosci.cornell.edu/). I have a master's degree in [Computational Linguistics](https://www.compling.uw.edu/) from the University of Washington and have worked as a data scientist and research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Facebook Core Data Science](https://research.fb.com/core-data-science/), and [Pacific Northwest National Laboratory](https://www.pnl.gov/).
 
