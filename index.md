@@ -4,25 +4,11 @@ layout: default
 
 <br>
 
-<!-- ## Hello! -->
-
-<!-- <img class="profile-picture" src="me.jpg"> -->
-
-<!-- I'm an [Information Science](http://infosci.cornell.edu/) PhD student at Cornell University working in natural language processing. My advisor is [David Mimno](https://mimno.infosci.cornell.edu/).
-
-I have a master's degree in computational linguistics from the University of Washington, where I was advised by [Fei Xia](http://faculty.washington.edu/fxia/), and I've worked at organizations like [Microsoft](https://www.microsoft.com/en-us/research/project/empowermd/), [Pacific Northwest National Laboratory](https://www.pnl.gov/) (PNNL), and [Maana](https://www.maana.io/), a data analytics startup. -->
-
-<!-- ## Research Interests
-
-My research is in natural language processing and machine learning. I'm interested in unsupervised and semi-supervised techniques, such as word embeddings and topic modeling. I study how these techniques can be used to explore new datasets, ranging from social media to literature to medical data. I'm especially interested in questions about narrative and semantic similarity.
-
-<br> -->
-
 ## About
 
 <img class="profile-picture" src="me.png">
 
-I am a researcher and data scientist working in natural language processing. I am interested in modeling how people express their subjective experiences through text, especially in the contexts of healthcare and the humanities, usually in the setting of online communities. I rely on unsupervised machine learning methods, and I re-explore the evaluation of these methods when applied to small, topically-focused datasets. 
+I am a researcher and data scientist working in natural language processing. I am interested in modeling how people express their subjective experiences through text, especially in the contexts of healthcare and the humanities, usually in the setting of online communities. I rely on unsupervised machine learning methods, and I re-explore the evaluation of these methods when applied to small, topic-focused datasets. 
 
 My past work has examined how postpartum people frame their [birth experiences](https://maria-antoniak.github.io/resources/2019_cscw_birth_stories.pdf),  how people communicate their [pain levels](https://maria-antoniak.github.io/resources/2020_frontiers_pain.pdf) to physicians, and how the use of word embedding models require additional [stability tests](https://maria-antoniak.github.io/resources/2018_evaluating_stability.pdf) when used to measure biases.
 
