@@ -15,6 +15,9 @@ layout: default
 * [Data Feminism](https://bookshop.org/books/data-feminism/9780262044004) by Catherine D'Ignazio and Lauren F. Klein  
 * [Elizabeth I: A Study in Insecurity](https://bookshop.org/books/elizabeth-i-penguin-monarchs-a-study-in-insecurity/9780141980881) by Helen Castor  
 * [War in Val d'Orcia](https://bookshop.org/books/war-in-val-d-orcia-an-italian-war-diary-1943-1944/9781681372662) by Iris Origo
+* [Red Cavalry](https://bookshop.org/books/red-cavalry/9781782270935) by Isaac Babel
+* [Grant](https://bookshop.org/books/grant/9780143110637) by Ron Chernow
+* [My Brilliant Friend](https://bookshop.org/books/my-brilliant-friend/9781609450786) by Elena Ferrante
 
 <br>
 
