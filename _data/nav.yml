@@ -1,17 +1,20 @@
 - name: "Contact"
-  link: "https://maria-antoniak.github.io/contact"
+  link: "https://teimilola.github.io/contact"
 
 - name: "Code"
-  link: "https://github.com/maria-antoniak"
+  link: "https://github.com/teimilola"
 
 - name: "Blog"
-  link: "https://maria-antoniak.github.io/blog"
+  link: "https://teimilola.github.io/blog"
 
-- name: "Publications"
-  link: "https://maria-antoniak.github.io/publications"
+- name: "Reading"
+  link: "https://teimilola.github.io/reading"
+
+- name: "Projects"
+  link: "https://teimilola.github.io/projects"
 
 - name: "CV"
-  link: "https://maria-antoniak.github.io/cv"
+  link: "https://teimilola.github.io/cv"
 
 - name: "About"
-  link: "https://maria-antoniak.github.io/"
+  link: "https://teimilola.github.io/"
