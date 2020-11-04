@@ -18,9 +18,9 @@ Outside of software engineering, ML and NLP, I enjoy writing short stories and e
 
 
 
-<!-- <br> -->
+<br>
 
-<!-- ## Research Interests
+## Research Interests
 
 Natural language processing, commonsense reasoning, Narrative undersatanding, Naltural Language generation
 
@@ -38,13 +38,13 @@ Natural language processing, commonsense reasoning, Narrative undersatanding, Na
 * Software Engineering Intern, Facebook, Boston MA
 * Software Engineering Intern, Facebook, Menlo Park CA
 
--->
+
 
 <br>
 
 
 
-<br> -->
+<br>
 
 
 <br><br><br>

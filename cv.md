@@ -8,7 +8,7 @@ You can download a PDF of my CV [here](http://teimilola.github.io/resources/oloy
 
 <br><br>
 
-<!-- ---
+
 
 ## EDUCATION
 
@@ -109,4 +109,4 @@ English (native), Yoruba (native), French (beginner)
 
 <br>
 
-<br> -->
+<br>
