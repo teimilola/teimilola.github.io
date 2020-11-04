@@ -9,6 +9,12 @@ kramdown:
 
 tracking_id: UA-156013933-1
 
+plugins:
+  - jekyll-feed
+  - jemoji
+
+theme: jekyll-theme-minimal
+
 sass:
     style: compressed
     sass_dir: _sass

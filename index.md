@@ -22,7 +22,7 @@ Outside of software engineering, ML and NLP, I enjoy writing short stories and e
 
 ## Research Interests
 
-Natural language processing, commonsense reasoning, Narrative undersatanding, Naltural Language generation
+Natural language processing, Commonsense reasoning, Narrative understanding, Natural Language generation
 
 <br>
 
