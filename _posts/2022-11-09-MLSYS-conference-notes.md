@@ -88,12 +88,11 @@ Song also generally shares a vision for a data economy where data contributors o
   - GNN frameworks (think graph data structure plus neural networks) are based on a message passing paradigm, and express GNN models using built-in primitives and user-defined functions (UDFs).
   - GNNs differ from DNNs
     - DNN: tensor computation using operators to transform tensors
-    - GNN:graphcomputationusingmessagepassing:edge(howtosendamessage),node(howtousea message)
-  - ThispaperwasaboutimprovingUDFswhicharelowperformant,highmemoryusingacompilerforGNNs.Uses broadcast reordering and fusion to eliminate intermediate data materialization to achieve optimizations.
+    - GNN: graph computation using message passing: edge(how to send a message), node(how to use a message)
+  - This paper was about improving UDFsw hich are low performant, high memory using a compiler for GNNs.Uses broadcast reordering and fusion to eliminate intermediate data materialization to achieve optimizations.
 
-- TorchSparseforpointcloud
-inference: [paper](https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf)
-  - Pointcloud inference is used for AR/VR, self-driving cars since it provides real-time,low latency inference.
+- Torch Sparse for point cloud inference: [paper](https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf)
+  - Pointcloud inference is used for AR/VR, self-driving cars since it provides real-time,low latency inference
   - Point cloud inference usesS parse convolution (as opposed to conventional convolution). However, sparse convolution has poor performance on GPUs since sparsity and irregularity make mapping and data movement difficult.
   - TorchSparse has similar interface to PyTorch and
     - improves adaptive grouping for matrix multiplication
