@@ -4,7 +4,7 @@ layout: default
 
 <br>
 
-You can download a full copy of my CV [here](http://teimilola.github.io/resources/oloyede_temilola.pdf).
+You can download a full copy of my CV [here](http://teimilola.github.io/resources/Temi_Resume__Overleaf_.pdf).
 
 <br><br>
 
