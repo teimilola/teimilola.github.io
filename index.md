@@ -6,7 +6,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="me.jpeg" max-width=100% height=auto>
+<img class="profile-picture" src="me.jpeg">
 
 I am currently a mid-level software engineer working on Machine Learning Infra.
 
@@ -33,7 +33,7 @@ Outside of software engineering, I enjoy watching netflix shows, reading, writin
 <br>
 
 ## Education
-* BA in Computer Science, Howard University
+* BA in Computer Science(2019), Howard University
 * Summa Cum Laude
 
 <br>
