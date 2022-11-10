@@ -52,7 +52,7 @@ An example of all these working together is [GLAM](https://ai.googleblog.com/202
 Researchers should also be encouraged to put carbon costs for models in their papers.
 More info: https://openai.com/blog/ai-and-compute/
 
-<img class="media" src="../resources/dave-patterson.jpeg">
+<img class="media" src="http://teimilola.github.io/resources/dave-patterson.jpeg">
 
 ### Privacy-Preserving ML
 #### Improving efficiency of Federated Learning (FL)
@@ -73,12 +73,12 @@ Song shared some projects on differential privacy - chorus, which rewrites sql q
 system for enforcing differential privacy.
 She also shared a project, CoLearn - an open source platform helping bridge the gap between crypto protocol design and real world deployment.
 
-<img class="media" src="../resources/dawn-decentralized.jpeg">
+<img class="media" src="http://teimilola.github.io/resources/dawn-decentralized.jpeg">
 She talked about decentralized data science where data owners register their data with policy specified on a distributed third-party platform, and data consumers can consume data respecting the policies. An example use case would be conducting medical research using federated learning and gaining insights from multiple medical institutions.
 
 Song also generally shares a vision for a data economy where data contributors own and are paid for their data and data trusts/commons enable this and data trustees will manage and protect users data. This will enable a new type of data asset, a capsule of data and policies that can be consumed along specific guidelines for a specific fee or exchange value. This will use blockchain for logging and enforcement of usage policies and privacy computing which ensures that data remains private during compute.
 
-<img class="media" src="../resources/dawn-data-commons.jpeg">
+<img class="media" src="http://teimilola.github.io/resources/dawn-data-commons.jpeg">
 
 
 ### Model Efficiency Improvements:
