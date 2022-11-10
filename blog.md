@@ -1,6 +1,4 @@
----
-layout: default
----
+## Blog Posts
 
 
 <ul>
