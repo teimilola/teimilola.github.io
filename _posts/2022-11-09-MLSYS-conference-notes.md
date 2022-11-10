@@ -45,20 +45,20 @@ Patterson shared some of the more malthusian predictions about carbon emissions 
   - Geographic locations, e.g.cloud data centers in Oklahoma with wind use less energy than otherlocations
 
 
-An example of all these working together is GLAM(https://ai.googleblog.com/2021/12/more-efficient-in-context-learning- with.html) which has better carbon efficiency than GPT-3 and about the same performance, achieved by using TPUs and datacenters in places like Oklahoma.
+An example of all these working together is [GLAM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning- with.html) which has better carbon efficiency than GPT-3 and about the same performance, achieved by using TPUs and datacenters in places like Oklahoma.
 
 - 7x parameters as GPT-3 but 3X less energy and 14x less CO2e
 
 Researchers should also be encouraged to put carbon costs for models in their papers.
 More info: https://openai.com/blog/ai-and-compute/
 
-<img class="" src="../resources/dave-patterson.png">
+<img src="../resources/dave-patterson.png">
 
 ### Privacy-Preserving ML
 #### Improving efficiency of Federated Learning (FL)
-- Achieving synchronous and asynchronous FL at scale (https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
+- Achieving synchronous and asynchronous FL at scale [paper](https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
   - Async FL is faster and more efficient than sync FL ○ Workswithdifferentialprivacy
-- A more efficient and less complex algorithm for preserving privacy of users in Mobile FL when recomputing for dropped users. (https://mlsys.org/media/mlsys-2022/Slides/2156.pdf)
+- A more efficient and less complex algorithm for preserving privacy of users in Mobile FL when recomputing for dropped users. [slides](https://mlsys.org/media/mlsys-2022/Slides/2156.pdf)
 
 
 #### Towards Building a Responsible Data Economy
@@ -83,7 +83,7 @@ Song also generally shares a vision for a data economy where data contributors o
 
 ### Model Efficiency Improvements:
 - Improving efficiency for Graph neural networks
-(GNNs): https://proceedings.mlsys.org/paper/2022/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf
+(GNNs): [paper](https://proceedings.mlsys.org/paper/2022/file/a87ff679a2f3e71d9181a67b7542122c-Paper.pdf)
   - GNN frameworks (think graph data structure plus neural networks) are based on a message passing paradigm, and express GNN models using built-in primitives and user-defined functions (UDFs).
   - GNNs differ from DNNs
     - DNN: tensor computation using operators to transform tensors
@@ -91,7 +91,7 @@ Song also generally shares a vision for a data economy where data contributors o
   - ThispaperwasaboutimprovingUDFswhicharelowperformant,highmemoryusingacompilerforGNNs.Uses broadcast reordering and fusion to eliminate intermediate data materialization to achieve optimizations.
 
 - TorchSparseforpointcloud
-inference: https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf
+inference: [paper](https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0a82652dca-Paper.pdf)
   - Pointcloud inference is used for AR/VR, self-driving cars since it provides real-time,low latency inference.
   - Point cloud inference usesS parse convolution (as opposed to conventional convolution). However, sparse convolution has poor performance on GPUs since sparsity and irregularity make mapping and data movement difficult.
   - TorchSparse has similar interface to PyTorch and
@@ -100,16 +100,16 @@ inference: https://proceedings.mlsys.org/paper/2022/file/6512bd43d9caa6e02c990b0
 
 
 ### ML Compilers
-There was a whole track/symposium (https://chips-compilers-mlsys-22.github.io/) about improving ML compilers and this seems like a big direction for ML in general, since deep learning compilers make it easier to support heterogenous hardware without ML frameworks having to individually support all hardware platforms.
+There was a whole [track/symposium](https://chips-compilers-mlsys-22.github.io/) about improving ML compilers and this seems like a big direction for ML in general, since deep learning compilers make it easier to support heterogenous hardware without ML frameworks having to individually support all hardware platforms.
 - See Dave Patterson’s talk shared above.
 - Presentation on TinyML under 256kb of memory. This showed achieving on-device training using a tinyML compiler engine and optimizations. There was also a pretty cool demonstration of this training working live on a arduino-type device
 - The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding.
   - This paper was about having a more efficient way to generate code for ragged tensor (tensors with dimensions of varying length) operators since padding ragged tensor is largely inefficient using fused loop extents an iteration variable relationships as well as lowering memory access with memory offsets.
-- Also generally cool projects on ML compilers and automated discovery of ML optimizations from the Catalyst group at CMU: https://catalyst.cs.cmu.edu/projects/cortex.html
+- Also generally cool projects on ML compilers and automated discovery of ML optimizations from the Catalyst group at [CMU]((https://catalyst.cs.cmu.edu/projects/cortex.html)
 
 ### Other Interesting Papers:
 Pathways: Asynchronous Distributed Dataflow for
-ML: https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf one of the best paper award:
+ML: [paper](https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf) one of the best paper award:
 - Pathways is asingle-controller, asynchronous distributed dataflow system for distributed ML workflows
 - The talk starts by classifying distributed systems into:
   - First-wave single-controller model where user code is in one process and the process delegates to multiple worker via distributed system, e.g. MapReduce, Spark, TensorFlow.
