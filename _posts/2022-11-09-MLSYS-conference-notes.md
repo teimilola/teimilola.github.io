@@ -14,13 +14,13 @@ A lot of the papers at MLSys this year were from co-contributors who came from b
 ### Accelerating Engineering with Machine Learning
 Ryan Adams, a professor at Princeton University had a great talk about the possibilities of using ML in mechanical engineering: CAD, Design, Simulation, fabrication, control. In his opinion, mechanical engineering has been overlook even though there is a large number of inefficiencies and errors that occur in the space which cost companies millions. Machine learning can be applied to CAD to predict constraints, or provide autocomplete for CAD designers. There are also other applications to computational physics, PDE solving, and computer numerical control.
 
-Adams shared that hard problems in traditional engineering can improve ML itself and could be the key for embodied intelligence. This is similar to the case of Jax, Autograd(https://dougalmaclaurin.com/projects.html) which came from trying to solve problems in molecular biology space.
+Adams shared that hard problems in traditional engineering can improve ML itself and could be the key for embodied intelligence. This is similar to the case of Jax, [Autograd](https://dougalmaclaurin.com/projects.html) which came from trying to solve problems in molecular biology space.
 
 He also reminded us that not every problem has to be solved with deep learning.
 
 ### INTERESTING ML IN SYSTEMS PAPERS:
-- Online Datacenter Straggler Prediction(https://proceedings.mlsys.org/paper/2022/file/3644a684f98ea8fe223c713b77189a77- Paper.pdf)
-- Data Drift Mitigation in Machine Learning for Large-Scale Systems(https://proceedings.mlsys.org/paper/2022/file/1c383cd30b7c298ab50293adfecb7b18-Paper.pdf)
+- Online Datacenter Straggler Prediction [paper](https://proceedings.mlsys.org/paper/2022/file/3644a684f98ea8fe223c713b77189a77- Paper.pdf)
+- Data Drift Mitigation in Machine Learning for Large-Scale Systems [paper](https://proceedings.mlsys.org/paper/2022/file/1c383cd30b7c298ab50293adfecb7b18-Paper.pdf)
 
 
 ### Dave Patterson on Efficient Computation, Optimizations and Sustainable AI
@@ -50,7 +50,7 @@ An example of all these working together is [GLAM](https://ai.googleblog.com/202
 - 7x parameters as GPT-3 but 3X less energy and 14x less CO2e
 
 Researchers should also be encouraged to put carbon costs for models in their papers.
-More info: https://openai.com/blog/ai-and-compute/
+[More info on improving energy efficiency](https://openai.com/blog/ai-and-compute/)
 
 <img src="http://teimilola.github.io/resources/dave-patterson.jpeg">
 
