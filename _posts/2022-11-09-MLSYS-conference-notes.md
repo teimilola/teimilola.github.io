@@ -19,7 +19,7 @@ Adams shared that hard problems in traditional engineering can improve ML itself
 He also reminded us that not every problem has to be solved with deep learning.
 
 ### INTERESTING ML IN SYSTEMS PAPERS:
-- Online Datacenter Straggler Prediction [paper](https://proceedings.mlsys.org/paper/2022/file/3644a684f98ea8fe223c713b77189a77- Paper.pdf)
+- Online Datacenter Straggler Prediction [paper](https://proceedings.mlsys.org/paper/2022/file/3644a684f98ea8fe223c713b77189a77-Paper.pdf)
 - Data Drift Mitigation in Machine Learning for Large-Scale Systems [paper](https://proceedings.mlsys.org/paper/2022/file/1c383cd30b7c298ab50293adfecb7b18-Paper.pdf)
 
 
@@ -45,7 +45,7 @@ Patterson shared some of the more malthusian predictions about carbon emissions 
   - Geographic locations, e.g.cloud data centers in Oklahoma with wind use less energy than otherlocations
 
 
-An example of all these working together is [GLAM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning- with.html) which has better carbon efficiency than GPT-3 and about the same performance, achieved by using TPUs and datacenters in places like Oklahoma.
+An example of all these working together is [GLAM](https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html) which has better carbon efficiency than GPT-3 and about the same performance, achieved by using TPUs and datacenters in places like Oklahoma.
 
 - 7x parameters as GPT-3 but 3X less energy and 14x less CO2e
 
@@ -105,7 +105,7 @@ There was a whole [track/symposium](https://chips-compilers-mlsys-22.github.io/)
 - Presentation on TinyML under 256kb of memory. This showed achieving on-device training using a tinyML compiler engine and optimizations. There was also a pretty cool demonstration of this training working live on a arduino-type device
 - The CoRa Tensor Compiler: Compilation for Ragged Tensors with Minimal Padding.
   - This paper was about having a more efficient way to generate code for ragged tensor (tensors with dimensions of varying length) operators since padding ragged tensor is largely inefficient using fused loop extents an iteration variable relationships as well as lowering memory access with memory offsets.
-- Also generally cool projects on ML compilers and automated discovery of ML optimizations from the Catalyst group at [CMU]((https://catalyst.cs.cmu.edu/projects/cortex.html)
+- Also generally cool projects on ML compilers and automated discovery of ML optimizations from the Catalyst group at [CMU](https://catalyst.cs.cmu.edu/projects/cortex.html)
 
 ### Other Interesting Papers:
 Pathways: Asynchronous Distributed Dataflow for
