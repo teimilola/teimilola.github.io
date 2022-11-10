@@ -52,7 +52,7 @@ An example of all these working together is [GLAM](https://ai.googleblog.com/202
 Researchers should also be encouraged to put carbon costs for models in their papers.
 More info: https://openai.com/blog/ai-and-compute/
 
-<img class="media" src="http://teimilola.github.io/resources/dave-patterson.jpeg">
+<img src="http://teimilola.github.io/resources/dave-patterson.jpeg">
 
 ### Privacy-Preserving ML
 #### Improving efficiency of Federated Learning (FL)
