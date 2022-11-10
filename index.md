@@ -6,11 +6,11 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="me.jpeg">
+<img class="profile-picture" src="me.jpeg" max-width=100% height=auto>
 
 I am currently a mid-level software engineer working on Machine Learning Infra.
 
-I have about 3 years of experience as a Software Engineer.  I worked on <a href="https://atscaleconference.com/videos/ai-scale-2020-f3-next-generation-feature-framework-at-facebook/"> Facebook's Feature Framework (F3), working on improving ML engineers' ability to innovate, build features and experiment faster.  </a>
+I have about 3 years of experience as a Software Engineer.  I worked on <a href="https://atscaleconference.com/videos/ai-scale-2020-f3-next-generation-feature-framework-at-facebook/"> Facebook's Feature Framework (F3)</a>, working on improving ML engineers' ability to innovate, build features and experiment faster.  
   
 I've worked on building ranking and retrieval models to help people discover communities, content and events as an ML Generalist on Facebook Search.
  
