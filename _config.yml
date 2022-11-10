@@ -2,6 +2,8 @@ title: Temi Oloyede
 url: "https://teimilola.github.io/"
 baseurl: ""
 
+rss: rss
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -12,6 +14,7 @@ tracking_id: UA-156013933-1
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 
 theme: jekyll-theme-minimal
 
