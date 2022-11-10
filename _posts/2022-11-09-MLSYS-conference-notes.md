@@ -57,7 +57,8 @@ Researchers should also be encouraged to put carbon costs for models in their pa
 ### Privacy-Preserving ML
 #### Improving efficiency of Federated Learning (FL)
 - Achieving synchronous and asynchronous FL at scale [paper](https://proceedings.mlsys.org/paper/2022/file/f340f1b1f65b6df5b5e3f94d95b11daf-Paper.pdf)
-  - Async FL is faster and more efficient than sync FL ○ Workswithdifferentialprivacy
+  - Async FL is faster and more efficient than sync FL 
+   - Works with differential privacy
 - A more efficient and less complex algorithm for preserving privacy of users in Mobile FL when recomputing for dropped users. [slides](https://mlsys.org/media/mlsys-2022/Slides/2156.pdf)
 
 
@@ -108,8 +109,8 @@ There was a whole [track/symposium](https://chips-compilers-mlsys-22.github.io/)
 - Also generally cool projects on ML compilers and automated discovery of ML optimizations from the Catalyst group at [CMU](https://catalyst.cs.cmu.edu/projects/cortex.html)
 
 ### Other Interesting Papers:
-Pathways: Asynchronous Distributed Dataflow for
-ML: [paper](https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf) one of the best paper award:
+[Pathways](https://proceedings.mlsys.org/paper/2022/file/98dce83da57b0395e163467c9dae521b-Paper.pdf) Asynchronous Distributed Dataflow for
+ML (one of the best paper awards)
 - Pathways is asingle-controller, asynchronous distributed dataflow system for distributed ML workflows
 - The talk starts by classifying distributed systems into:
   - First-wave single-controller model where user code is in one process and the process delegates to multiple worker via distributed system, e.g. MapReduce, Spark, TensorFlow.
