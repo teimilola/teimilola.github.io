@@ -18,3 +18,11 @@ theme: jekyll-theme-minimal
 sass:
     style: compressed
     sass_dir: _sass
+    
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
