@@ -3,7 +3,7 @@ title: "Machine learning compilers"
 date: 2022-11-14
 --- -->
 
-## Machine learning compilers
+## Machine Learning Compilers
 
 
 I've been reading about Machine Learning Compilers and wanted to share some notes. I read this paper ["The Deep Learning Compiler: A Comprehensive Survey"](https://arxiv.org/abs/2002.03794) and summarized some key takeaways.
@@ -72,6 +72,8 @@ Deep learning compilers typically accept a deep learning model as input, and hav
 <img src="http://teimilola.github.io/resources/dl_compiler_achitecture.jpeg">
 
 
+_____
+
 
 ### Deep learning Compiler - Frontend High Level IR
 There are two general implementations for Deep learning compiler fronends. They can either be:
@@ -95,6 +97,7 @@ And how to represent the (tensor) computations:
 - Einstein notation
 
 
+_____
 
 
 ### Deep learning Compiler - Backend Low Level IR
@@ -125,6 +128,8 @@ ______
 There are some optimizations that can be done at the fronend including node level optimizations(e.g. nop elimination, zero dimension tensor elimination), Block level(algebraic simplification, operator fusion or combining loop nests, operator sinking), dataflow level (common sub expression elimination, dead code elimination, static memory planning, layout transformation).
 
 
+_____
+
 
 
 ### Deep learning Compiler - Backend Optimizations
@@ -151,3 +156,6 @@ From the paper, TVM generally seemed to have the best performance on both CPUs a
 
 
 > Some Images from [The Deep Learning Compiler: A Comprehensive Survey paper](https://arxiv.org/abs/2002.03794)
+
+
+I also found some of Chip Huyen's thoughts on Machine Learning Compilers pretty insightful: [A friendly introduction to machine learning compilers and optimizers blog post](https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html)
