@@ -34,10 +34,12 @@ They also run on different memory architectures (CPU, GPU, TPU) with different c
 
 Since there are different hardware, memory architectures a Neural network can run on, it's non-trivial for frameworks to add support for all of these hardware, memory architecture.
 
+<img src="http://teimilola.github.io/resources/dl_compilers_memory_subsystem.jpeg">
+
 This is where the deep learning compiler comes in.
 
 
-
+_____
 
 
 ### Deep Learning Compilers
@@ -54,6 +56,7 @@ Some of the current machine learning compilers are shown below.
 |Intel nGraph| |
 
 
+_____
 
 
 ### Deep Learning Compiler Architecture
@@ -115,6 +118,7 @@ There are two types of compilation schemes:
 2. Ahead of Time (AOT): Here all executable binaries are generated first and then executed. This has a larger scope of static analysis since all executation information is present.
 
 
+______
 
 
 ### Deep learning Compiler - Frontend Optimizations
@@ -134,6 +138,8 @@ It is also possible to use the optimal parameter configuration. There is a large
 <img src="http://teimilola.github.io/resources/dl_compiler_backend_optimizations.jpeg">
 
 
+_____
+
 
 ### Performance Comparison between DL Compilers
 
@@ -141,3 +147,7 @@ From the paper, TVM generally seemed to have the best performance on both CPUs a
 <img src="http://teimilola.github.io/resources/dl_compiler_perf_comp.jpeg">
 <img src="http://teimilola.github.io/resources/dl_compiler_perf_comp_table.jpeg">
 
+
+
+
+> Some Images from [The Deep Learning Compiler: A Comprehensive Survey paper](https://arxiv.org/abs/2002.03794)
