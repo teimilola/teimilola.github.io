@@ -29,7 +29,7 @@ There have also been many deep learning frameworks aiming to simplify building n
 
 Neural networks run on different hardware including: General purpose hardware, Dedicated hardware fully customized for DL models, and, Neuromorphic hardware inspired by biological brains.
 
-They also run on different memory architectures (CPU, GPU, TPU) with different compute primitives scalar(CPU), vector(GPU), tensor (TPU)
+They also run on different memory architectures (CPU, GPU, TPU) with different compute primitives scalar (CPU), vector (GPU), tensor (TPU)
 
 
 Since there are different hardware, memory architectures a Neural network can run on, it's non-trivial for frameworks to add support for all of these hardware, memory architecture.
@@ -84,7 +84,7 @@ There are two general implementations for Deep learning compiler fronends. They 
 2. Let-binding based
 - Here, the IR is represented as Let expressions with restricted scope
 - Let expression generates let node (contains operator and variable)
-- A map of let nodes is initially generated, containing dl operators(convolution, pooling, etc), and variable(tensors)
+- A map of let nodes is initially generated, containing dl operators (convolution, pooling, etc), and variable (tensors)
 
 
 Then there is the problem of how to represent the data (tensors in this case) in the IR, Can be:
@@ -110,7 +110,7 @@ There are two common implementations for the low level IR of a compiler
 2. Polyhedral-based IR
 - Uses linear programming to optimize loop based code
 - Boundary of memory can be polyhedrons with any shape
-- Used by PlaidML(nGraph)
+- Used by PlaidML (nGraph)
 
 TC uses both halide and polyhedral.
 
@@ -125,17 +125,15 @@ ______
 
 
 ### Deep learning Compiler - Frontend Optimizations
-There are some optimizations that can be done at the fronend including node level optimizations(e.g. nop elimination, zero dimension tensor elimination), Block level(algebraic simplification, operator fusion or combining loop nests, operator sinking), dataflow level (common sub expression elimination, dead code elimination, static memory planning, layout transformation).
+There are some optimizations that can be done at the fronend including node level optimizations (e.g. nop elimination, zero dimension tensor elimination), Block level (algebraic simplification, operator fusion or combining loop nests, operator sinking), dataflow level (common sub expression elimination, dead code elimination, static memory planning, layout transformation).
 
-
-_____
 
 
 
 ### Deep learning Compiler - Backend Optimizations
-On the compiler backend, we could do hardware specific optimizations such as Hardware intrinsic mapping, Memory allocation and fetching, Memory latency hiding, Parallelization, or, Loop oriented optimizations(loop fusion, sliding windows(halide), tiling, reordering, unrolling).
+On the compiler backend, we could do hardware specific optimizations such as Hardware intrinsic mapping, Memory allocation and fetching, Memory latency hiding, Parallelization, or, Loop oriented optimizations (loop fusion, sliding windows (halide), tiling, reordering, unrolling).
 
-It is also possible to use the optimal parameter configuration. There is a large space for parameter tuning, and autotuning helps determine the optimal configuration. Autotuning involves some parameterization, cost model(e.g. black box, ML model), searching technique and acceleration.
+It is also possible to use the optimal parameter configuration. There is a large space for parameter tuning, and autotuning helps determine the optimal configuration. Autotuning involves some parameterization, cost model (e.g. black box, ML model), searching technique and acceleration.
 
 
 
