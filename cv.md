@@ -4,11 +4,14 @@ layout: default
 
 <br>
 
-You can download a full copy of my CV [here](http://teimilola.github.io/resources/Temi_Resume__Overleaf_ (2).pdf).
+You can download a full copy of my CV [here](http://teimilola.github.io/resources/Temi_Resume__Overleaf_ (7).pdf).
 
 <br><br>
 
 
+Take a look at my LinkedIn Profile [here](https://www.linkedin.com/in/temi-oloyede-swe/).
+
+<br><br>
 
 ## EDUCATION
 
