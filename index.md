@@ -35,7 +35,7 @@ My undergraduate reasearch work explored social media and the spread of health (
 
 ## Technical Competencies
 
-Programming Languages: Python, C++, C, Shell Script, SQL
+- Programming Languages: Python, C++, C, Shell Script, SQL
 - Statistical & Optimization Languages:  MATLAB
 - Cloud Platform & Big Data: Apache Open Source Software (Spark, Hadoop, Hive, Thrift etc.), Presto
 - Machine Learning: Statistical Learning, TensorFlow, fblearner(https://engineering.fb.com/2016/05/09/core-data/introducing-fblearner-flow-facebook-s-ai-backbone/), scikit-learn.
